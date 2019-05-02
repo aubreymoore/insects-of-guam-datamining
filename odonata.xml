@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>3</id>
+      <name>odonata</name>
+      <size>4</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <flipped>False</flipped>
+      <created>2019-04-25 22:51:17.081279+03:00</created>
+      <updated>2019-04-27 00:27:53.883184+03:00</updated>
+      <source>4 images: odonata-0.jpg, odonata-1.jpg, ...</source>
+      <labels>
+        <label>
+          <name>species</name>
+          <attributes>
+            <attribute>@text=name:</attribute>
+          </attributes>
+        </label>
+      </labels>
+      <segments>
+        <segment>
+          <id>3</id>
+          <start>0</start>
+          <stop>3</stop>
+          <url>http://54.199.246.37/?id=3</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>aubreymoore</username>
+        <email>aubreymoore@guam.net</email>
+      </owner>
+    </task>
+    <dumped>2019-04-27 00:29:01.690118+03:00</dumped>
+  </meta>
+  <image id="0" name="odonata-0.jpg" width="1405" height="1983">
+    <box label="species" xtl="201.48" ytl="903.57" xbr="1165.46" ybr="1294.96" occluded="0">
+      <attribute name="name">Ishnura delicata</attribute>
+    </box>
+    <box label="species" xtl="196.65" ytl="1427.84" xbr="1163.05" ybr="1703.26" occluded="0">
+      <attribute name="name">Anax piraticus</attribute>
+    </box>
+  </image>
+  <image id="1" name="odonata-1.jpg" width="1405" height="1983">
+    <box label="species" xtl="240.14" ytl="256.08" xbr="1206.54" ybr="405.80" occluded="0">
+      <attribute name="name">Anax piraticus</attribute>
+    </box>
+    <box label="species" xtl="242.55" ytl="415.54" xbr="1230.69" ybr="753.78" occluded="0">
+      <attribute name="name">Anaciaeschna jaspidea</attribute>
+    </box>
+    <box label="species" xtl="242.55" ytl="828.67" xbr="1225.86" ybr="920.48" occluded="0">
+      <attribute name="name">Hemicordulia</attribute>
+    </box>
+    <box label="species" xtl="242.55" ytl="918.06" xbr="1262.10" ybr="1377.10" occluded="0">
+      <attribute name="name">Agrionaptera insignis insignis</attribute>
+    </box>
+    <box label="species" xtl="225.64" ytl="1398.85" xbr="1254.85" ybr="1734.67" occluded="0">
+      <attribute name="name">Diplacodes bipunctata</attribute>
+    </box>
+  </image>
+  <image id="2" name="odonata-2.jpg" width="1402" height="1981">
+    <box label="species" xtl="201.51" ytl="212.40" xbr="1230.72" ybr="334.81" occluded="0">
+      <attribute name="name">Diplacodes bipunctata</attribute>
+    </box>
+    <box label="species" xtl="185.88" ytl="347.59" xbr="1187.51" ybr="707.21" occluded="0">
+      <attribute name="name">Pantala flavescens</attribute>
+    </box>
+    <box label="species" xtl="195.54" ytl="712.04" xbr="1187.51" ybr="1054.76" occluded="0">
+      <attribute name="name">Tholymis tillarga</attribute>
+    </box>
+    <box label="species" xtl="193.13" ytl="1069.25" xbr="1240.61" ybr="1411.97" occluded="0">
+      <attribute name="name">Rhypthemuis phyllis phyllis</attribute>
+    </box>
+    <box label="species" xtl="197.95" ytl="1426.45" xbr="1170.62" ybr="1706.43" occluded="0">
+      <attribute name="name">Rhyothemis variegata variegata</attribute>
+    </box>
+  </image>
+  <image id="3" name="odonata-3.jpg" width="1409" height="1987">
+    <box label="species" xtl="268.16" ytl="257.18" xbr="1240.82" ybr="345.90" occluded="0">
+      <attribute name="name">Rhyothemis variegata variegata</attribute>
+    </box>
+    <box label="species" xtl="250.80" ytl="348.60" xbr="1223.98" ybr="716.57" occluded="0">
+      <attribute name="name">Tramea limbata</attribute>
+    </box>
+  </image>
+</annotations>
