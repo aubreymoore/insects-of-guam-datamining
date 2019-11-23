@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<archive xmlns="http://rs.tdwg.org/dwc/text/">
+	<core encoding="UTF-8" linesTerminatedBy="\r\n" fieldsTerminatedBy="," fieldsEnclosedBy="&quot;" ignoreHeaderLines="1" rowType="http://rs.tdwg.org/dwc/terms/Occurrence">
+		<files>
+			<location></location>
+		</files>
+		<id index="0"/>
+		<field default="" term="http://rs.tdwg.org/dwc/terms/basisOfRecord"/>
+		<field default="" term="http://purl.org/dc/terms/bibliographicCitation"/>
+		<field default="" term="http://purl.org/dc/terms/references"/>
+		<field default="" term="http://rs.tdwg.org/dwc/terms/island"/>
+		<field default="" term="http://rs.tdwg.org/dwc/terms/countryCode"/>
+		<field index="1" term="http://rs.tdwg.org/dwc/terms/scientificName"/>
+		<field index="2" term="http://rs.tdwg.org/dwc/terms/locality"/>
+		<field index="3" term="http://rs.tdwg.org/dwc/terms/individualCount"/>
+		<field index="4" term="http://rs.tdwg.org/dwc/terms/verbatimEventDate"/>
+		<field index="5" term="http://rs.tdwg.org/dwc/terms/dynamicProperties"/>
+	</core>
+</archive>

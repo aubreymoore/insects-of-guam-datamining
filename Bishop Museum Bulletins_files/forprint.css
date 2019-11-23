@@ -1,0 +1,470 @@
+/* Basic Default Styles */
+body {
+	margin-left:30px;
+}
+
+#container {
+	margin-top:-50px;
+	margin-left:10px;
+}
+
+h3 {
+	color: #A03E19;
+	margin: 0;
+}
+h2 {
+	color: #023A73;
+	margin: 0;
+}
+acronym {
+	border: 0;
+	font-style: normal;
+}
+
+#pageHeader span {
+	display: none;
+}
+
+#otherlinks {
+	display:none;
+}	
+
+#content {
+	width:700px;
+	vertical-align:text-bottom;
+	font-family:Georgia, Times, serif, mono;
+	float:left;
+	border-left: none;
+	border-right: none;
+}
+
+#prcontent {
+	width:700px;
+	vertical-align:text-bottom;
+	font-family:Georgia, Times, serif, mono;
+	float:left;
+	border-left: none;
+	border-right: none;
+}
+
+#content h3 {
+	text-align:left;
+	float:right;
+	color:#000000;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size: 12pt;
+	font-weight: bold;
+	border-bottom: thin solid #023A73;
+}
+
+#content div.caption {
+	margin-top:10px;
+	margin-right:20px;
+	line-height: 1.5em;
+	float:right;
+	text-align:left;
+	font-size:12pt;
+	color: #999999;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+
+#content div.captionsmallwide {
+	margin-top:10px;
+	padding-left:8px;
+	line-height: 1.5em;
+	float:left;
+	text-align:left;
+	font-size:12pt;
+	color: #999999;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+
+#content div.image {
+	float:left;
+	padding-left:5px;
+	padding-right:5px;
+	vertical-align:top;
+}
+#content h4 {
+	color: #000000;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+	font-weight: bold;
+	border-bottom: thin solid #023A73;
+	padding-top: 0px;
+	margin-left: 10px;
+	margin-right:10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+}
+
+#content div.caption2 {
+	margin-right:10px;
+	margin-left:10px;
+	margin-top:0px;
+	width:68%;
+	line-height: 1.5em;
+	float:left;
+	text-align:left;
+	font-size:12pt;
+	color: #999999;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+
+#content div.image2 {
+	margin-top:5px;
+	padding-right:10px;
+	float:right;
+	vertical-align:top;
+}
+
+#content div.caption3 {
+	vertical-align:bottom;
+	margin-right:8px;
+	margin-left:8px;
+	margin-top:0px;
+	margin-bottom:20px;
+	width:90%;
+	line-height: 1.5em;
+	float:left;
+	text-align:left;
+	font-size:12px;
+	color: #000000;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	text-indent: 30px;
+}
+
+#content div.caption3 a{
+	font-weight:bold;
+}
+
+#content div.caption3 ul li{
+	margin-right: 20px;
+	font-size:12pt;
+	margin-left:-20px;
+}
+
+#content div.caption3 span.newjob{
+	color:#000000;
+	font-weight:bold;
+}
+
+#content div.image3 {
+	margin-top:8px;
+	float:left;
+	margin-left:5px;
+	vertical-align:top;
+}
+
+#content span.highlight{
+	font-weight:bold;
+}
+
+#content span.divider {
+	display:none;
+}
+
+#content h5 {
+	color: #000000;
+	width:50%;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+	font-weight: bold;
+	border-bottom: thin solid #023A73;
+	margin-left:10px;
+	padding-left: 10px;
+	padding-bottom: 8px;
+}
+#content span.spacer {
+	display:none;
+}
+
+#content div.divider {
+	display:none;
+}
+
+#preamble, #supportingText {
+	font:10px Verdana, Arial, Helvetica, sans-serif;
+	color: #999999;
+	width: 430px;
+	margin-left: 250px;
+	margin-top: 15px;
+}
+
+#sb2 {
+	display:none;
+}
+
+#schedule ul li{
+	padding:5px 5px 5px 5px;
+	color: #023A73;
+	list-style-type: disc;
+}
+
+#footerinfo {
+	display:none;
+}	
+
+#footerinfo a:link {
+	color: #9CB4D6;
+	text-decoration: none;
+}
+#footerinfo a:active, #footerinfo a:visited  {
+	color: #B6C4DE;
+	text-decoration: none;
+}
+
+#events {
+	display:none;
+}
+
+/* Left Navigation */
+#linkList {
+	display:none;
+}
+
+#calcon {
+	float:left;
+	margin-left:10px;
+}
+table#calendar a:link {
+	font-weight:bold;
+	text-decoration:none;
+	color:navy;
+}
+
+table#calendar a:visited {
+	color:purple;
+}
+
+table#calendar a:hover {
+	background: #FF6;
+}
+
+table#calendar {
+	width: 600px;
+}
+
+table#calendar tr#day th {
+	width: 14%;
+	color:#023A73;
+	background:#C4CFE5;
+	font-weight: bold;
+	text-align:center;
+	padding: 1px 0.33em;
+	border: 1px solid;
+	border-color:#023A73;
+}
+
+ table#calendar tr#month th {
+	color:black;
+	background-color:#C4CFE5;
+	font-size: 120%;
+	text-align:center;
+}
+
+table#calendar td {
+	width:70px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color: #000;
+	background-color:#C4CFE5;
+	text-align: right;
+	border: 1px solid;
+	border-color:#023A73;
+	vertical-align:top;
+	height: 80px;
+}
+
+table#calendar td#othermonth {
+	color:#666666;
+	background-color:#EEEEEE;
+}
+
+table#calendar div.date {
+	float:right;
+	font-size:10px;
+	text-align:center;
+	color: #0033CC;
+	border: 1px solid gray;
+	border-width: 0 0 1px 1px;
+	background: #F3F3F3;
+	padding: 0.125em 0.25em 0.25em;
+	margin: 0;
+	vertical-align:top;
+}
+
+table#calendar td.sat {
+	border-right: 1px solid #BBB;
+	background-color:#B6C4DE;
+}
+
+table#calendar td.sun{
+	background-color:#B6C4DE;
+}
+
+table#calendar div.event {
+	text-align:left;
+	font-size:10px;
+	color:#000000;
+	margin: 0.5em;
+	padding-top:10px;
+}
+
+table#calendar div.event span {
+	color:#000000;
+	display:block;
+}
+
+table#calendar span.time {
+	text-align:left;
+	color:#999999;
+	font-weight:bold;
+	font-style:italic;
+	font-size:10px;
+	margin: 0.5em;
+}
+
+table#calendar span.loc {
+	text-align:left;
+	color:#999999;
+	font:Verdana, Arial, Helvetica, sans-serif;
+	font-size:10px;
+	font-style:italic;
+	margin: 0.5em;
+}
+	
+table#calendar span.dsc {
+	text-align:left;
+	color:#000000;
+	font:Verdana, Arial, Helvetica, sans-serif;
+	font-size:10px;
+	font-style:italic;
+	margin: 0.5em;
+}
+
+table#calendar td.holiday {
+	background-color:#9CB4D6;
+}
+
+
+#dschedcon {
+	float:right;
+	position:relative;
+	width:600px;
+	margin-left: 200px;
+	margin-top: -200px;
+}
+table#dschedule a:link {
+	font-weight:bold;
+	text-decoration:none;
+	color:navy;
+}
+
+table#dschedule a:visited {
+	color:purple;
+}
+
+table#dschedule a:hover {
+	background: #FF6;
+}
+
+table#dschedule {
+	width: 600px;
+}
+
+table#dschedule tr#top th {
+	text-align:center;
+	color:#023A73;
+	background:#C4CFE5;
+	font-weight: bold;
+	padding: 1px 0.33em;
+	border: 1px solid;
+	border-color:#FFF;
+}
+
+table#dschedule td {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color: #000;
+	border: 1px solid;
+	border-color:#FFF;
+	vertical-align:top;
+	padding: 5px 5px 5px 5px ;
+}
+
+table#dschedule div.title {
+	color:#000;
+	font-weight:bold;
+	font-size:12px;
+}
+
+table#dschedule div.howlong {
+	font-size:10px;
+	font-style:italic;
+	color: #000;
+}
+
+table#dschedule div.event {
+	font-size:10px;
+	color:#000000;
+	margin: 0.5em;
+	padding-top:10px;
+}
+
+table#dschedule div.event span {
+	color:#000000;
+	display:block;
+}
+
+table#dschedule span.time {
+	color:#023A73;
+	font-weight:bold;
+	font-size:12px;
+}
+
+table#dschedule span.loc {
+	color:#999999;
+	font:Verdana, Arial, Helvetica, sans-serif;
+	font-size:10px;
+	font-style:italic;
+	margin: 0.5em;
+}
+	
+table#dschedule span.dsc {
+	color:#000000;
+	font-size:10px;
+	margin-top:10px;
+	padding-top:10px;
+}
+
+table#dschedule tr.light{
+	background-color:#C4CFE5;
+}
+
+table#dschedule tr.dark{
+	background-color:#B6C4DE;
+}
+
+table#astrotable {
+	text-align:left;
+	font:Arial, Helvetica, sans-serif;
+	font-size:10px;
+}
+	
+table#astrotable tr.light{
+	background-color:#C4CFE5;
+}
+
+table#astrotable tr.dark{
+	background-color:#B6C4DE;
+}
+
+table#pressrealeases tr.light{
+	background-color:#C4CFE5;
+	font-size:10px;
+}
+
+table#pressrealeases tr.white{
+	background-color:#FFF;
+	font-size:10px;
+}

@@ -1,0 +1,68 @@
+<html>
+
+<head>
+  <link rel="stylesheet" href="bootstrap.min.css">
+  <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"> -->
+  <script src="jquery.min.js"></script>
+  <!--  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>  -->
+</head>
+
+<body>
+  <div class="container">
+    <div class="row">
+      <form>
+
+        <div class="form-group">
+          <label for="species">Species</label>
+          <input type="text" class="form-control" id="species" name="species" required="True">
+        </div>
+
+        <!--<input type="hidden" name="count" value="1" />-->
+        <div class="control-group" id="fields">
+          <label class="control-label" for="field1">Collection records</label>
+          <div class="controls" id="profs">
+            <!-- <form class="input-append"> -->
+            <div class="form-inline" id="field">
+              <input type="text" class="form-control" id="locality1" name="locality1" placeholder="locality">
+              <input type="date" name="date1" id="date1" class="form-control" min="1936-01-01" max="1936-12-31">
+              <button id="b1" class="btn btn-primary add-more" type="button">+</button>
+            </div>
+          </div>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Submit</button>
+      </form>
+    </div>
+  </div>
+
+  <script type="text/javascript">
+    $(document).ready(function() {
+      var next = 1;
+      $(".add-more").click(function(e) {
+        e.preventDefault();
+        var addto = "#field" + next;
+        var addRemove = "#field" + (next);
+        next = next + 1;
+        var newIn = '<input autocomplete="off" class="input" id="field' + next + '" name="field' + next + '" type="text">';
+        //var newIn = '<input autocomplete="off" class="input" id="locality' + next + '" name="locality' + next + '" type="text">';
+        var newInput = $(newIn);
+        var removeBtn = '<button id="remove' + (next - 1) + '" class="btn btn-danger remove-me" >-</button></div><div id="field">';
+        var removeButton = $(removeBtn);
+        $(addto).after(newInput);
+        $(addRemove).after(removeButton);
+        $("#field" + next).attr('data-source', $(addto).attr('data-source'));
+        //$("#count").val(next);
+
+        $('.remove-me').click(function(e) {
+          e.preventDefault();
+          var fieldNum = this.id.charAt(this.id.length - 1);
+          var fieldID = "#field" + fieldNum;
+          $(this).remove();
+          $(fieldID).remove();
+        });
+      });
+    });
+  </script>
+</body>
+
+</html>

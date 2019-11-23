@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="bootstrap.min.css">
+<!--
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+-->
+
+<!-- jQuery library -->
+<script src="jquery.min.js"></script>
+<!--
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+-->
+
+<body>
+
+  <h2>My Form</h2>
+
+  <form action="/action_page.php">
+
+    <div id="field">
+      <div id="field0">
+
+
+        Species name:<br>
+        <input type="text" name="species_name"><br><br>
+
+        <div class="input-group mb-3">
+          <div class="input-group-prepend">
+            <span class="input-group-text">Collection Record</span>
+          </div>
+          <input type="text" name="locality" class="form-control" placeholder="Locality">
+          <input type="date" name="collection_date" class="form-control" min="1936-01-01" max="1936-12-31">
+          <input type="text" name="collector" class="form-control" placeholder="Collector(s)">
+
+        </div>
+        <!-- Button -->
+        <div class="form-group">
+          <div class="col-md-4">
+            <button id="add-more" name="add-more" class="btn btn-primary">Add More</button>
+          </div>
+        </div>
+        <br><br>
+
+
+      </div>
+
+      <button type="submit" class="btn btn-primary">Submit</button>
+
+    </div>
+    </div>
+  </form>
+
+  <p>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".</p>
+
+
+  <script type="text/javascript">
+    $(document).ready(function() {
+      //@naresh action dynamic childs
+      var next = 0;
+      $("#add-more").click(function(e) {
+        e.preventDefault();
+        var addto = "#field" + next;
+        var addRemove = "#field" + (next);
+        next = next + 1;
+        var newIn = '\
+                <div class="input-group mb-3">\
+                  <div class="input-group-prepend">\
+                    <span class="input-group-text">Collection Record</span>\
+                  </div>\
+                  <input type="text" name="locality" class="form-control" placeholder="Locality">\
+                  <input type="date" name="collection_date" class="form-control" min="1936-01-01" max="1936-12-31">\
+                  <input type="text" name="collector" class="form-control" placeholder="Collector(s)">\
+                </div>';
+        var newInput = $(newIn);
+        var removeBtn = '<button id="remove' + (next - 1) + '" class="btn btn-danger remove-me" >Remove</button></div></div><div id="field">';
+        var removeButton = $(removeBtn);
+        $(addto).after(newInput);
+        $(addRemove).after(removeButton);
+        $("#field" + next).attr('data-source', $(addto).attr('data-source'));
+        $("#count").val(next);
+
+        $('.remove-me').click(function(e) {
+          e.preventDefault();
+          var fieldNum = this.id.charAt(this.id.length - 1);
+          var fieldID = "#field" + fieldNum;
+          $(this).remove();
+          $(fieldID).remove();
+        });
+      });
+
+    });
+  </script>
+
+
+</body>
+
+</html>

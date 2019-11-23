@@ -1,0 +1,57 @@
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+<div class="container mt-2">
+  <h4>Does the image contain any object?</h4>
+
+  <div class="row">
+
+    <div class="col-8">
+      <p><img src="${image_url}" style="max-width: 100%" /></p>
+      <p class="small">${text}</p>
+    </div>
+
+    <div class="col-4">
+
+      <div class="form-group">
+        <label for="species">Species:</label>
+        <input type="text" class="form-control" id="species" name="species">
+      </div>
+
+      <div class="form-group">
+        <label for="collection_records">Collection records:</label>
+        <textarea class="form-control" rows="5" id="collection_records" name="collection_records"></textarea>
+      </div>
+
+      <div class="form-group">
+        <label for="associates">Associated species:</label>
+        <input type="text" class="form-control" id="associates" name="associates">
+      </div>
+
+      <div class="form-group">
+            <div class="form-check">
+        <label class="form-check-label">
+          <input type="checkbox" class="form-check-input" value="" id="first_record" name="first_record">First Guam record
+        </label>
+      </div>
+      </div>
+
+      <div class="form-group">
+        <div class="form-check-inline">
+          <label class="form-check-label">
+            <input type="radio" class="form-check-input" name="status" value="unknown" checked>Unknown
+          </label>
+        </div>
+        <div class="form-check-inline">
+          <label class="form-check-label">
+            <input type="radio" class="form-check-input" name="status" value="native">Native
+          </label>
+        </div>
+        <div class="form-check-inline disabled">
+          <label class="form-check-label">
+            <input type="radio" class="form-check-input" name="status" value="introduced">Introduced
+          </label>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
