@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>14</id>
+      <name>anthribidae-of-guam</name>
+      <size>9</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <flipped>False</flipped>
+      <created>2019-11-24 06:42:18.685887+03:00</created>
+      <updated>2019-11-24 06:51:56.026680+03:00</updated>
+      <source>9 images: anthribidae-of-guam-0.jpg, anthribidae-of-guam-1.jpg, ...</source>
+      <labels>
+        <label>
+          <name>species</name>
+          <attributes>
+            <attribute>@text=name:</attribute>
+          </attributes>
+        </label>
+      </labels>
+      <segments>
+        <segment>
+          <id>11</id>
+          <start>0</start>
+          <stop>8</stop>
+          <url>http://54.199.246.37/?id=11</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>aubreymoore</username>
+        <email>aubreymoore@guam.net</email>
+      </owner>
+    </task>
+    <dumped>2019-11-24 06:52:16.855762+03:00</dumped>
+  </meta>
+  <image id="1" name="anthribidae-of-guam-1.jpg" width="1402" height="1981">
+    <box label="species" xtl="282.43" ytl="1387.84" xbr="1243.02" ybr="1718.49" occluded="0">
+      <attribute name="name">Jordanthribus planifascietus</attribute>
+    </box>
+  </image>
+  <image id="2" name="anthribidae-of-guam-2.jpg" width="1390" height="1973">
+    <box label="species" xtl="191.64" ytl="223.61" xbr="1162.78" ybr="932.73" occluded="0">
+      <attribute name="name">Jordanthribus planifascietus</attribute>
+    </box>
+    <box label="species" xtl="186.83" ytl="947.16" xbr="1157.97" ybr="1692.34" occluded="0">
+      <attribute name="name">Jordanthribus conspersus</attribute>
+    </box>
+  </image>
+  <image id="3" name="anthribidae-of-guam-3.jpg" width="1405" height="1983">
+    <box label="species" xtl="271.55" ytl="256.08" xbr="1245.19" ybr="1009.87" occluded="0">
+      <attribute name="name">Jordanthribus conspersus</attribute>
+    </box>
+    <box label="species" xtl="273.96" ytl="1251.47" xbr="1250.02" ybr="1727.42" occluded="0">
+      <attribute name="name">Notioxenus fulgidus</attribute>
+    </box>
+  </image>
+  <image id="4" name="anthribidae-of-guam-4.jpg" width="1394" height="1975">
+    <box label="species" xtl="188.35" ytl="221.31" xbr="1167.69" ybr="1474.97" occluded="0">
+      <attribute name="name">Notioxenus fulgidus</attribute>
+    </box>
+    <box label="species" xtl="190.75" ytl="1489.40" xbr="1167.69" ybr="1681.90" occluded="0">
+      <attribute name="name">Melanopsacus parvulus</attribute>
+    </box>
+  </image>
+  <image id="5" name="anthribidae-of-guam-5.jpg" width="1409" height="1987">
+    <box label="species" xtl="267.74" ytl="259.03" xbr="1236.09" ybr="1266.11" occluded="0">
+      <attribute name="name">Melanopsacus parvulus</attribute>
+    </box>
+    <box label="species" xtl="275.01" ytl="1459.78" xbr="1236.09" ybr="1721.23" occluded="0">
+      <attribute name="name">Mauia subnotatus</attribute>
+    </box>
+  </image>
+  <image id="6" name="anthribidae-of-guam-6.jpg" width="1387" height="1970">
+    <box label="species" xtl="181.37" ytl="218.57" xbr="1148.63" ybr="604.99" occluded="0">
+      <attribute name="name">Mauia subnotatus</attribute>
+    </box>
+    <box label="species" xtl="176.57" ytl="1205.03" xbr="1146.23" ybr="1673.06" occluded="0">
+      <attribute name="name">Araecerus fasciculatus</attribute>
+    </box>
+  </image>
+  <image id="7" name="anthribidae-of-guam-7.jpg" width="1405" height="1983">
+    <box label="species" xtl="276.38" ytl="246.42" xbr="1254.85" ybr="848.00" occluded="0">
+      <attribute name="name">Araecerus vieillardi</attribute>
+    </box>
+    <box label="species" xtl="290.87" ytl="1104.10" xbr="1247.61" ybr="1391.60" occluded="0">
+      <attribute name="name">Araeocorynus cumingi</attribute>
+    </box>
+  </image>
+</annotations>
