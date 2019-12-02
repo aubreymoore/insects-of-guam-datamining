@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>16</id>
+      <name>aphidae</name>
+      <size>2</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <flipped>False</flipped>
+      <created>2019-12-02 11:04:12.184676+03:00</created>
+      <updated>2019-12-02 11:09:16.075586+03:00</updated>
+      <source>2 images: aphidae-and-aleurodidae-of-guam-0.jpg, aphidae-and-aleurodidae-of-guam-1.jpg, ...</source>
+      <labels>
+        <label>
+          <name>species</name>
+          <attributes>
+            <attribute>@text=name:</attribute>
+          </attributes>
+        </label>
+      </labels>
+      <segments>
+        <segment>
+          <id>13</id>
+          <start>0</start>
+          <stop>1</stop>
+          <url>http://54.199.246.37/?id=13</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>aubreymoore</username>
+        <email>aubreymoore@guam.net</email>
+      </owner>
+    </task>
+    <dumped>2019-12-02 11:23:32.008807+03:00</dumped>
+  </meta>
+  <image id="0" name="aphidae-and-aleurodidae-of-guam-0.jpg" width="1387" height="1970">
+    <box label="species" xtl="184.65" ytl="456.20" xbr="1133.79" ybr="773.35" occluded="0">
+      <attribute name="name">Aphis gossypii</attribute>
+    </box>
+    <box label="species" xtl="184.65" ytl="783.76" xbr="1144.20" ybr="1099.75" occluded="0">
+      <attribute name="name">Aphis maidis</attribute>
+    </box>
+    <box label="species" xtl="181.70" ytl="1109.93" xbr="1143.43" ybr="1253.27" occluded="0">
+      <attribute name="name">Aphis nerii</attribute>
+    </box>
+    <box label="species" xtl="181.70" ytl="1543.29" xbr="1081.76" ybr="1691.63" occluded="0">
+      <attribute name="name">Neomaskellia bergii</attribute>
+    </box>
+  </image>
+  <image id="1" name="aphidae-and-aleurodidae-of-guam-1.jpg" width="1421" height="1995">
+    <box label="species" xtl="269.53" ytl="262.48" xbr="1241.78" ybr="629.51" occluded="0">
+      <attribute name="name">Neomaskellia bergii</attribute>
+    </box>
+  </image>
+</annotations>

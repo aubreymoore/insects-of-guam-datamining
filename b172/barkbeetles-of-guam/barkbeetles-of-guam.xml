@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>17</id>
+      <name>barkbeetles</name>
+      <size>3</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <flipped>False</flipped>
+      <created>2019-12-02 11:10:24.686141+03:00</created>
+      <updated>2019-12-02 11:15:56.125967+03:00</updated>
+      <source>3 images: barkbeetles-of-guam-0.jpg, barkbeetles-of-guam-1.jpg, ...</source>
+      <labels>
+        <label>
+          <name>species</name>
+          <attributes>
+            <attribute>@text=name:</attribute>
+          </attributes>
+        </label>
+      </labels>
+      <segments>
+        <segment>
+          <id>14</id>
+          <start>0</start>
+          <stop>2</stop>
+          <url>http://54.199.246.37/?id=14</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>aubreymoore</username>
+        <email>aubreymoore@guam.net</email>
+      </owner>
+    </task>
+    <dumped>2019-12-02 11:23:40.946251+03:00</dumped>
+  </meta>
+  <image id="0" name="barkbeetles-of-guam-0.jpg" width="1405" height="1983">
+    <box label="species" xtl="174.91" ytl="674.05" xbr="1129.22" ybr="896.32" occluded="0">
+      <attribute name="name">Platypus solidus</attribute>
+    </box>
+    <box label="species" xtl="172.49" ytl="956.72" xbr="1160.63" ybr="1459.25" occluded="0">
+      <attribute name="name">Staphanoderes insularis</attribute>
+    </box>
+    <box label="species" xtl="174.91" ytl="1468.91" xbr="1146.13" ybr="1688.77" occluded="0">
+      <attribute name="name">Cryphalus swezeyi</attribute>
+    </box>
+  </image>
+  <image id="1" name="barkbeetles-of-guam-1.jpg" width="1390" height="1973">
+    <box label="species" xtl="254.14" ytl="252.46" xbr="1234.89" ybr="863.02" occluded="0">
+      <attribute name="name">Cryphalus swezeyi</attribute>
+    </box>
+    <box label="species" xtl="249.33" ytl="875.04" xbr="1239.70" ybr="1233.21" occluded="0">
+      <attribute name="name">Cosmoderes birmanus</attribute>
+    </box>
+    <box label="species" xtl="254.14" ytl="1238.02" xbr="1234.89" ybr="1454.36" occluded="0">
+      <attribute name="name">Coccotrypes carpophagus</attribute>
+    </box>
+    <box label="species" xtl="258.95" ytl="1468.78" xbr="1230.09" ybr="1711.57" occluded="0">
+      <attribute name="name">Xyleborus testaceus</attribute>
+    </box>
+  </image>
+  <image id="2" name="barkbeetles-of-guam-2.jpg" width="1394" height="1975">
+    <box label="species" xtl="181.13" ytl="209.28" xbr="1160.47" ybr="430.66" occluded="0">
+      <attribute name="name">Xyleborus similis</attribute>
+    </box>
+    <box label="species" xtl="183.53" ytl="435.47" xbr="1143.62" ybr="632.78" occluded="0">
+      <attribute name="name">Xyleborus confusus</attribute>
+    </box>
+  </image>
+</annotations>

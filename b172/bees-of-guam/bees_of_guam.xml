@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>18</id>
+      <name>bees</name>
+      <size>3</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <flipped>False</flipped>
+      <created>2019-12-02 11:16:56.907041+03:00</created>
+      <updated>2019-12-02 11:23:07.002512+03:00</updated>
+      <source>3 images: bees-of-guam-0.jpg, bees-of-guam-1.jpg, ...</source>
+      <labels>
+        <label>
+          <name>species</name>
+          <attributes>
+            <attribute>@text=name:</attribute>
+          </attributes>
+        </label>
+      </labels>
+      <segments>
+        <segment>
+          <id>15</id>
+          <start>0</start>
+          <stop>2</stop>
+          <url>http://54.199.246.37/?id=15</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>aubreymoore</username>
+        <email>aubreymoore@guam.net</email>
+      </owner>
+    </task>
+    <dumped>2019-12-02 11:23:50.459699+03:00</dumped>
+  </meta>
+  <image id="0" name="bees-of-guam-0.jpg" width="1387" height="1970">
+    <box label="species" xtl="274.97" ytl="612.19" xbr="1242.23" ybr="1020.22" occluded="0">
+      <attribute name="name">Apis mellifera</attribute>
+    </box>
+    <box label="species" xtl="267.77" ytl="1085.02" xbr="1251.83" ybr="1709.06" occluded="0">
+      <attribute name="name">Megachile laticeps</attribute>
+    </box>
+  </image>
+  <image id="1" name="bees-of-guam-1.jpg" width="1387" height="1970">
+    <box label="species" xtl="166.96" ytl="201.77" xbr="1131.83" ybr="278.57" occluded="0">
+      <attribute name="name">Megachile laticeps</attribute>
+    </box>
+    <box label="species" xtl="171.77" ytl="290.57" xbr="1129.43" ybr="441.78" occluded="0">
+      <attribute name="name">Megachile fullaway</attribute>
+    </box>
+    <box label="species" xtl="174.17" ytl="439.38" xbr="1127.03" ybr="631.40" occluded="0">
+      <attribute name="name">Lithurgus guamensis</attribute>
+    </box>
+    <box label="species" xtl="178.97" ytl="698.60" xbr="1153.43" ybr="1118.63" occluded="0">
+      <attribute name="name">Hylaeus guamensis</attribute>
+    </box>
+    <box label="species" xtl="176.57" ytl="1193.03" xbr="1134.23" ybr="1454.65" occluded="0">
+      <attribute name="name">Halictus saffordi</attribute>
+    </box>
+    <box label="species" xtl="174.17" ytl="1459.45" xbr="1134.23" ybr="1668.26" occluded="0">
+      <attribute name="name">Halictus swezeyi</attribute>
+    </box>
+  </image>
+  <image id="2" name="bees-of-guam-2.jpg" width="1398" height="1978">
+    <box label="species" xtl="273.92" ytl="250.79" xbr="1237.88" ybr="766.51" occluded="0">
+      <attribute name="name">Halictus swezeyi</attribute>
+    </box>
+  </image>
+</annotations>
