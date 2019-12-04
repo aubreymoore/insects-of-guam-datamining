@@ -16,30 +16,31 @@ Log in using your user name which can be found in the following list. All passwo
 
 #### List of User Names
 
-AJ.Ilai
-Alyanna.Del.Rosario
-Anthony.Cruz
-Darren.Ehmes
-Elaine.Ermitanio
-Eric.Defan
-Florentino.Bondoc
-Harley.Jr.Edeluchel
-Ippei.Ogata
-Jacether.Andrew
-Jaycia-Lynn.Soulmai
-Jeffrey.S.Centino
-Jeromalyn.Santos
-Jessica.Hannah.Mendiola
-Jordan.Barcinas
-Kina.Eclarinal
-Laura.Layan
-Leroy.Kaminaga
-Logan.Hopkins
-Maddison.Willis
-Mattew.Cruz
-Rennie.Glen.Taiwerpal
-Storm.Manglona
-Thomas.Camacho
-Trisden.Elias
-Uilani.Cepeda
+- AJ.Ilai
+- Alyanna.Del.Rosario
+- Anthony.Cruz
+-  Darren.Ehmes
+-  Elaine.Ermitanio
+-  Eric.Defan
+-  Florentino.Bondoc
+-  Harley.Jr.Edeluchel
+-  Ippei.Ogata
+-  Jacether.Andrew
+-  Jaycia-Lynn.Soulmai
+-  Jeffrey.S.Centino
+-  Jeromalyn.Santos
+-  Jessica.Hannah.Mendiola
+-  Jordan.Barcinas
+-  Kina.Eclarinal
+-  Laura.Layan
+-  Leroy.Kaminaga
+-  Logan.Hopkins
+-  Maddison.Willis
+-  Mattew.Cruz
+-  Rennie.Glen.Taiwerpal
+-  Storm.Manglona
+-  Thomas.Camacho
+-  Trisden.Elias
+-  Uilani.Cepeda
+
 
