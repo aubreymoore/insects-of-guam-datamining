@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>21</id>
+      <name>cercopidae-of-guam</name>
+      <size>2</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <flipped>False</flipped>
+      <created>2019-12-06 13:11:33.732654+03:00</created>
+      <updated>2019-12-06 13:18:13.187113+03:00</updated>
+      <source>2 images: cercopidae-of-guam-0.jpg, cercopidae-of-guam-1.jpg, ...</source>
+      <labels>
+        <label>
+          <name>species</name>
+          <attributes>
+            <attribute>@text=name:</attribute>
+          </attributes>
+        </label>
+      </labels>
+      <segments>
+        <segment>
+          <id>18</id>
+          <start>0</start>
+          <stop>1</stop>
+          <url>http://54.199.246.37/?id=18</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>aubreymoore</username>
+        <email>aubreymoore@guam.net</email>
+      </owner>
+    </task>
+    <dumped>2019-12-06 13:18:25.804670+03:00</dumped>
+  </meta>
+  <image id="0" name="cercopidae-of-guam-0.jpg" width="1390" height="1973">
+    <box label="species" xtl="191.64" ytl="622.64" xbr="1157.97" ybr="1238.02" occluded="0">
+      <attribute name="name">Lallemandana phalerata</attribute>
+    </box>
+    <box label="species" xtl="198.85" ytl="1247.63" xbr="1162.78" ybr="1668.30" occluded="0">
+      <attribute name="name">Lallemandana phalerata luteomaculata</attribute>
+    </box>
+  </image>
+  <image id="1" name="cercopidae-of-guam-1.jpg" width="1402" height="1981">
+    <box label="species" xtl="318.63" ytl="248.64" xbr="1037.87" ybr="383.80" occluded="0">
+      <attribute name="name">Lallemandana phalerata eugeniae</attribute>
+    </box>
+    <box label="species" xtl="328.29" ytl="383.80" xbr="1279.23" ybr="656.53" occluded="0">
+      <attribute name="name">Lallemandana swezeyi</attribute>
+    </box>
+  </image>
+</annotations>

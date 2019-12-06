@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>22</id>
+      <name>membracidae-of-guam</name>
+      <size>1</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <flipped>False</flipped>
+      <created>2019-12-06 13:12:29.706385+03:00</created>
+      <updated>2019-12-06 13:13:39.562495+03:00</updated>
+      <source>1 images: membracidae-of-guam.jpg, ...</source>
+      <labels>
+        <label>
+          <name>species</name>
+          <attributes>
+            <attribute>@text=name:</attribute>
+          </attributes>
+        </label>
+      </labels>
+      <segments>
+        <segment>
+          <id>19</id>
+          <start>0</start>
+          <stop>0</stop>
+          <url>http://54.199.246.37/?id=19</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>aubreymoore</username>
+        <email>aubreymoore@guam.net</email>
+      </owner>
+    </task>
+    <dumped>2019-12-06 13:13:44.891680+03:00</dumped>
+  </meta>
+  <image id="0" name="membracidae-of-guam.jpg" width="1405" height="1983">
+    <box label="species" xtl="186.99" ytl="565.33" xbr="1175.13" ybr="1360.19" occluded="0">
+      <attribute name="name">Leptocentrus taurus</attribute>
+    </box>
+  </image>
+</annotations>

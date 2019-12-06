@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>23</id>
+      <name>psyllids-of-guam</name>
+      <size>3</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <flipped>False</flipped>
+      <created>2019-12-06 13:21:32.049402+03:00</created>
+      <updated>2019-12-06 13:26:30.247679+03:00</updated>
+      <source>3 images: psyllidae-from-guam-0.jpg, psyllidae-from-guam-1.jpg, ...</source>
+      <labels>
+        <label>
+          <name>species</name>
+          <attributes>
+            <attribute>@text=name:</attribute>
+          </attributes>
+        </label>
+      </labels>
+      <segments>
+        <segment>
+          <id>20</id>
+          <start>0</start>
+          <stop>2</stop>
+          <url>http://54.199.246.37/?id=20</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>aubreymoore</username>
+        <email>aubreymoore@guam.net</email>
+      </owner>
+    </task>
+    <dumped>2019-12-06 13:26:34.207329+03:00</dumped>
+  </meta>
+  <image id="0" name="psyllidae-from-guam-0.jpg" width="1387" height="1970">
+    <box label="species" xtl="296.57" ytl="900.21" xbr="1271.04" ybr="1706.66" occluded="0">
+      <attribute name="name">Leptynoptera sulfurca</attribute>
+    </box>
+  </image>
+  <image id="1" name="psyllidae-from-guam-1.jpg" width="1387" height="1970">
+    <box label="species" xtl="181.37" ytl="213.77" xbr="1136.63" ybr="314.57" occluded="0">
+      <attribute name="name">Leptynoptera sulfurca</attribute>
+    </box>
+    <box label="species" xtl="181.37" ytl="364.98" xbr="1148.63" ybr="789.80" occluded="0">
+      <attribute name="name">Tyora ornata</attribute>
+    </box>
+    <box label="species" xtl="178.97" ytl="794.61" xbr="1177.43" ybr="1382.64" occluded="0">
+      <attribute name="name">Mesohomotoma hibisci</attribute>
+    </box>
+    <box label="species" xtl="181.37" ytl="1442.65" xbr="1148.63" ybr="1687.46" occluded="0">
+      <attribute name="name">Arytaina iolani</attribute>
+    </box>
+  </image>
+  <image id="2" name="psyllidae-from-guam-2.jpg" width="1387" height="1970">
+    <box label="species" xtl="267.77" ytl="259.37" xbr="1247.03" ybr="1308.24" occluded="0">
+      <attribute name="name">Arytaina variablis glabrascuta</attribute>
+    </box>
+    <box label="species" xtl="284.57" ytl="1358.60" xbr="1249.44" ybr="1721.06" occluded="0">
+      <attribute name="name">Trioza guama</attribute>
+    </box>
+  </image>
+</annotations>
