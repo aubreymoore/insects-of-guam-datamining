@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>24</id>
+      <name>neuropteroid-insects-from-guam</name>
+      <size>6</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <flipped>False</flipped>
+      <created>2019-12-06 23:05:48.747308+03:00</created>
+      <updated>2019-12-06 23:31:37.099761+03:00</updated>
+      <source>6 images: neuropteroid-insects-from-guam-0.jpg, neuropteroid-insects-from-guam-1.jpg, ...</source>
+      <labels>
+        <label>
+          <name>species</name>
+          <attributes>
+            <attribute>@text=name:</attribute>
+          </attributes>
+        </label>
+      </labels>
+      <segments>
+        <segment>
+          <id>21</id>
+          <start>0</start>
+          <stop>5</stop>
+          <url>http://54.199.246.37/?id=21</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>aubreymoore</username>
+        <email>aubreymoore@guam.net</email>
+      </owner>
+    </task>
+    <dumped>2019-12-06 23:31:42.481299+03:00</dumped>
+  </meta>
+  <image id="0" name="neuropteroid-insects-from-guam-0.jpg" width="1402" height="1981">
+    <box label="species" xtl="173.82" ytl="890.64" xbr="1134.41" ybr="1042.70" occluded="0">
+      <attribute name="name">Psocus kauaiensis</attribute>
+    </box>
+    <box label="species" xtl="176.23" ytl="1049.94" xbr="1136.83" ybr="1238.19" occluded="0">
+      <attribute name="name">Myopsocus bakori</attribute>
+    </box>
+    <box label="species" xtl="171.40" ytl="1250.26" xbr="1151.31" ybr="1694.36" occluded="0">
+      <attribute name="name">Hemipsocus chloroticus stenostigmus</attribute>
+    </box>
+  </image>
+  <image id="1" name="neuropteroid-insects-from-guam-1.jpg" width="1409" height="1987">
+    <box label="species" xtl="250.80" ytl="259.03" xbr="1250.61" ybr="1723.65" occluded="0">
+      <attribute name="name">Caecilius arotellus</attribute>
+    </box>
+  </image>
+  <image id="2" name="neuropteroid-insects-from-guam-2.jpg" width="1390" height="1973">
+    <box label="species" xtl="170.01" ytl="201.98" xbr="1138.74" ybr="524.09" occluded="0">
+      <attribute name="name">Caecilius arotellus</attribute>
+    </box>
+    <box label="species" xtl="172.41" ytl="521.69" xbr="1148.36" ybr="1086.58" occluded="0">
+      <attribute name="name">Mepleres ornata</attribute>
+    </box>
+    <box label="species" xtl="172.41" ytl="1096.20" xbr="1150.76" ybr="1341.38" occluded="0">
+      <attribute name="name">Pseudocaecilius marshalli</attribute>
+    </box>
+    <box label="species" xtl="177.22" ytl="1338.98" xbr="1150.76" ybr="1552.92" occluded="0">
+      <attribute name="name">Peripsocus suffitus</attribute>
+    </box>
+    <box label="species" xtl="165.20" ytl="1564.94" xbr="1141.15" ybr="1661.09" occluded="0">
+      <attribute name="name">Ectopsocus hawaiiensis</attribute>
+    </box>
+  </image>
+  <image id="3" name="neuropteroid-insects-from-guam-3.jpg" width="1402" height="1981">
+    <box label="species" xtl="270.36" ytl="238.98" xbr="1238.19" ybr="489.99" occluded="0">
+      <attribute name="name">Micropsocus waterstradti</attribute>
+    </box>
+    <box label="species" xtl="272.77" ytl="502.06" xbr="1235.78" ybr="712.04" occluded="0">
+      <attribute name="name">Psyllipsocus ramburii</attribute>
+    </box>
+    <box label="species" xtl="267.95" ytl="721.69" xbr="1238.19" ybr="1308.19" occluded="0">
+      <attribute name="name">Psyllonreura simbangana</attribute>
+    </box>
+    <box label="species" xtl="267.95" ytl="1308.19" xbr="1235.78" ybr="1704.01" occluded="0">
+      <attribute name="name">Echmepteryx pretiosa</attribute>
+    </box>
+  </image>
+  <image id="4" name="neuropteroid-insects-from-guam-4.jpg" width="1387" height="1970">
+    <box label="species" xtl="164.56" ytl="201.77" xbr="1129.43" ybr="511.39" occluded="0">
+      <attribute name="name">Echmepteryx pretiosa</attribute>
+    </box>
+    <box label="species" xtl="174.17" ytl="626.59" xbr="1127.03" ybr="818.61" occluded="0">
+      <attribute name="name">Chrysopa oceanica</attribute>
+    </box>
+    <box label="species" xtl="171.77" ytl="818.61" xbr="1112.63" ybr="967.42" occluded="0">
+      <attribute name="name">Chrysopa tagalica</attribute>
+    </box>
+    <box label="species" xtl="171.77" ytl="969.82" xbr="870.21" ybr="1099.42" occluded="0">
+      <attribute name="name">Chrysopa satilota</attribute>
+    </box>
+    <box label="species" xtl="154.96" ytl="1161.83" xbr="1127.03" ybr="1370.64" occluded="0">
+      <attribute name="name">Eumicromus pusilius</attribute>
+    </box>
+    <box label="species" xtl="162.16" ytl="1437.85" xbr="1141.43" ybr="1689.86" occluded="0">
+      <attribute name="name">Distoleon perjurus</attribute>
+    </box>
+  </image>
+  <image id="5" name="neuropteroid-insects-from-guam-5.jpg" width="1413" height="1989">
+    <box label="species" xtl="276.55" ytl="254.50" xbr="1279.80" ybr="882.14" occluded="0">
+      <attribute name="name">Distoleon perjurus</attribute>
+    </box>
+    <box label="species" xtl="281.40" ytl="882.14" xbr="1287.07" ybr="1063.88" occluded="0">
+      <attribute name="name">Myrmeleon celebensis</attribute>
+    </box>
+    <box label="species" xtl="286.25" ytl="1172.93" xbr="1265.26" ybr="1718.18" occluded="0">
+      <attribute name="name">Oecetinella punctata</attribute>
+    </box>
+  </image>
+</annotations>
