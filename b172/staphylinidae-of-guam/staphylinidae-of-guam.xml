@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>27</id>
+      <name>staphylinidae-of-guam</name>
+      <size>4</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <flipped>False</flipped>
+      <created>2019-12-07 11:43:06.843655+03:00</created>
+      <updated>2019-12-07 11:51:27.353341+03:00</updated>
+      <source>4 images: staphylinidae-of-guam-0.jpg, staphylinidae-of-guam-1.jpg, ...</source>
+      <labels>
+        <label>
+          <name>species</name>
+          <attributes>
+            <attribute>@text=name:</attribute>
+          </attributes>
+        </label>
+      </labels>
+      <segments>
+        <segment>
+          <id>24</id>
+          <start>0</start>
+          <stop>3</stop>
+          <url>http://54.199.246.37/?id=24</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>aubreymoore</username>
+        <email>aubreymoore@guam.net</email>
+      </owner>
+    </task>
+    <dumped>2019-12-07 11:51:45.029777+03:00</dumped>
+  </meta>
+  <image id="0" name="staphylinidae-of-guam-0.jpg" width="1390" height="1973">
+    <box label="species" xtl="182.03" ytl="711.59" xbr="1143.55" ybr="1266.87" occluded="0">
+      <attribute name="name">Lispinus impressicollis guamensis</attribute>
+    </box>
+    <box label="species" xtl="182.03" ytl="1271.67" xbr="1150.76" ybr="1665.90" occluded="0">
+      <attribute name="name">Lispinus impressicollis iridescens</attribute>
+    </box>
+  </image>
+  <image id="1" name="staphylinidae-of-guam-1.jpg" width="1405" height="1983">
+    <box label="species" xtl="266.71" ytl="229.51" xbr="1233.11" ybr="355.14" occluded="0">
+      <attribute name="name">Lispinus impressicollis iridescens</attribute>
+    </box>
+    <box label="species" xtl="264.30" ytl="357.55" xbr="1235.53" ybr="826.26" occluded="0">
+      <attribute name="name">Trogophloeus usingeri</attribute>
+    </box>
+    <box label="species" xtl="264.30" ytl="826.26" xbr="1235.53" ybr="1294.96" occluded="0">
+      <attribute name="name">Holotrochus swezeyi</attribute>
+    </box>
+    <box label="species" xtl="264.30" ytl="1292.54" xbr="1240.36" ybr="1696.02" occluded="0">
+      <attribute name="name">Palaminus swezeyi</attribute>
+    </box>
+  </image>
+  <image id="2" name="staphylinidae-of-guam-2.jpg" width="1402" height="1981">
+    <box label="species" xtl="181.06" ytl="195.54" xbr="1136.83" ybr="446.55" occluded="0">
+      <attribute name="name">Palaminus swezeyi</attribute>
+    </box>
+    <box label="species" xtl="183.47" ytl="446.55" xbr="1139.24" ybr="876.16" occluded="0">
+      <attribute name="name">Palaminus minutissimus</attribute>
+    </box>
+    <box label="species" xtl="185.88" ytl="878.58" xbr="1141.65" ybr="1450.59" occluded="0">
+      <attribute name="name">Scopaeus opacicollis</attribute>
+    </box>
+    <box label="species" xtl="183.47" ytl="1453.00" xbr="1139.24" ybr="1650.91" occluded="0">
+      <attribute name="name">Oligota apicata obscuricornis</attribute>
+    </box>
+  </image>
+  <image id="3" name="staphylinidae-of-guam-3.jpg" width="1398" height="1978">
+    <box label="species" xtl="264.29" ytl="248.38" xbr="1230.66" ybr="985.81" occluded="0">
+      <attribute name="name">Atheta usingeri</attribute>
+    </box>
+  </image>
+</annotations>
