@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>25</id>
+      <name>butterflies-of-guam</name>
+      <size>8</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <flipped>False</flipped>
+      <created>2019-12-07 11:08:25.661456+03:00</created>
+      <updated>2019-12-07 11:22:27.342536+03:00</updated>
+      <source>8 images: butterflies-of-guam-0.jpg, butterflies-of-guam-1.jpg, ...</source>
+      <labels>
+        <label>
+          <name>species</name>
+          <attributes>
+            <attribute>@text=name:</attribute>
+          </attributes>
+        </label>
+      </labels>
+      <segments>
+        <segment>
+          <id>22</id>
+          <start>0</start>
+          <stop>7</stop>
+          <url>http://54.199.246.37/?id=22</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>aubreymoore</username>
+        <email>aubreymoore@guam.net</email>
+      </owner>
+    </task>
+    <dumped>2019-12-07 11:22:32.315297+03:00</dumped>
+  </meta>
+  <image id="0" name="butterflies-of-guam-0.jpg" width="1390" height="1973">
+    <box label="species" xtl="172.41" ytl="951.96" xbr="1136.34" ybr="1687.53" occluded="0">
+      <attribute name="name">Papilio xuthus</attribute>
+    </box>
+  </image>
+  <image id="1" name="butterflies-of-guam-1.jpg" width="1405" height="1983">
+    <box label="species" xtl="271.55" ytl="309.23" xbr="1237.94" ybr="1178.99" occluded="0">
+      <attribute name="name">Danaida plexipus</attribute>
+    </box>
+    <box label="species" xtl="271.55" ytl="1186.24" xbr="1245.19" ybr="1584.88" occluded="0">
+      <attribute name="name">Euploea eleutho</attribute>
+    </box>
+    <box label="species" xtl="273.96" ytl="1599.37" xbr="1240.36" ybr="1717.76" occluded="0">
+      <attribute name="name">Euploea leucostictos kadu</attribute>
+    </box>
+  </image>
+  <image id="2" name="butterflies-of-guam-2.jpg" width="1390" height="1973">
+    <box label="species" xtl="167.60" ytl="226.02" xbr="1136.34" ybr="1408.69" occluded="0">
+      <attribute name="name">Euploea leucostictos kadu</attribute>
+    </box>
+    <box label="species" xtl="167.60" ytl="1408.69" xbr="1133.93" ybr="1675.51" occluded="0">
+      <attribute name="name">Hypolimnas bolina</attribute>
+    </box>
+  </image>
+  <image id="3" name="butterflies-of-guam-3.jpg" width="1402" height="1981">
+    <box label="species" xtl="258.29" ytl="263.12" xbr="1223.71" ybr="567.23" occluded="0">
+      <attribute name="name">Hypolimnas bolina</attribute>
+    </box>
+    <box label="species" xtl="265.53" ytl="576.88" xbr="1216.47" ybr="1718.49" occluded="0">
+      <attribute name="name">Hypolimnas anomala</attribute>
+    </box>
+  </image>
+  <image id="4" name="butterflies-of-guam-4.jpg" width="1398" height="1978">
+    <box label="species" xtl="182.35" ytl="597.81" xbr="1148.72" ybr="1395.49" occluded="0">
+      <attribute name="name">Issoria egistina</attribute>
+    </box>
+    <box label="species" xtl="184.76" ytl="231.51" xbr="1146.31" ybr="592.99" occluded="0">
+      <attribute name="name">Hypolimnas octocula marianensis</attribute>
+    </box>
+    <box label="species" xtl="182.35" ytl="1395.49" xbr="1148.72" ybr="1513.58" occluded="0">
+      <attribute name="name">Neptis guamensis</attribute>
+    </box>
+    <box label="species" xtl="184.76" ytl="1573.82" xbr="1025.81" ybr="1691.91" occluded="0">
+      <attribute name="name">Catopsilia crocale</attribute>
+    </box>
+  </image>
+  <image id="5" name="butterflies-of-guam-5.jpg" width="1386" height="1969">
+    <box label="species" xtl="257.81" ytl="1350.53" xbr="1222.18" ybr="1717.56" occluded="0">
+      <attribute name="name">Terias hecabe</attribute>
+    </box>
+    <box label="species" xtl="253.01" ytl="259.01" xbr="1229.38" ybr="798.77" occluded="0">
+      <attribute name="name">Catopsilia crocale</attribute>
+    </box>
+    <box label="species" xtl="253.01" ytl="796.37" xbr="1224.58" ybr="1333.73" occluded="0">
+      <attribute name="name">Appias leis subtuslutea</attribute>
+    </box>
+  </image>
+  <image id="6" name="butterflies-of-guam-6.jpg" width="1386" height="1969">
+    <box label="species" xtl="178.64" ytl="1021.87" xbr="1147.81" ybr="1588.02" occluded="0">
+      <attribute name="name">Cosmolyce boeticus</attribute>
+    </box>
+    <box label="species" xtl="185.84" ytl="220.63" xbr="1147.82" ybr="366.96" occluded="0">
+      <attribute name="name">Terias hecabe</attribute>
+    </box>
+    <box label="species" xtl="173.85" ytl="422.14" xbr="1145.42" ybr="940.31" occluded="0">
+      <attribute name="name">Melanitis leda</attribute>
+    </box>
+    <box label="species" xtl="173.85" ytl="1588.02" xbr="1145.42" ybr="1686.38" occluded="0">
+      <attribute name="name">Zizula gaika</attribute>
+    </box>
+  </image>
+  <image id="7" name="butterflies-of-guam-7.jpg" width="1402" height="1981">
+    <box label="species" xtl="248.64" ytl="255.88" xbr="1211.65" ybr="656.53" occluded="0">
+      <attribute name="name">Zizula gaika</attribute>
+    </box>
+  </image>
+</annotations>
