@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>38</id>
+      <name>tipulidae</name>
+      <size>4</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <flipped>False</flipped>
+      <created>2019-12-09 06:10:33.215148+03:00</created>
+      <updated>2019-12-09 09:45:46.049847+03:00</updated>
+      <source>4 images: tipulidae-of-guam-0.jpg, tipulidae-of-guam-1.jpg, ...</source>
+      <labels>
+        <label>
+          <name>species</name>
+          <attributes>
+            <attribute>@text=name:</attribute>
+          </attributes>
+        </label>
+      </labels>
+      <segments>
+        <segment>
+          <id>35</id>
+          <start>0</start>
+          <stop>3</stop>
+          <url>http://54.199.246.37/?id=35</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>aubreymoore</username>
+        <email>aubreymoore@guam.net</email>
+      </owner>
+    </task>
+    <dumped>2019-12-10 00:54:09.717713+03:00</dumped>
+  </meta>
+  <image id="0" name="tipulidae-of-guam-0.jpg" width="1402" height="1981">
+    <box label="species" xtl="171.43" ytl="996.85" xbr="1170.63" ybr="1168.21" occluded="0">
+      <attribute name="name">Limonia jocularis</attribute>
+    </box>
+    <box label="species" xtl="166.61" ytl="1173.04" xbr="1168.21" ybr="1438.57" occluded="0">
+      <attribute name="name">Limonia nesopicta</attribute>
+    </box>
+    <box label="species" xtl="169.02" ytl="1448.18" xbr="1168.21" ybr="1580.92" occluded="0">
+      <attribute name="name">Limonia strigivena</attribute>
+    </box>
+    <box label="species" xtl="164.19" ytl="1580.92" xbr="1165.80" ybr="1708.84" occluded="0">
+      <attribute name="name">Limonia swezeyana</attribute>
+    </box>
+  </image>
+  <image id="1" name="tipulidae-of-guam-1.jpg" width="1402" height="1981">
+    <box label="species" xtl="267.97" ytl="265.56" xbr="1238.20" ybr="702.41" occluded="0">
+      <attribute name="name">Limonia swezeyana</attribute>
+    </box>
+    <box label="species" xtl="263.15" ytl="1457.83" xbr="1230.96" ybr="1764.35" occluded="0">
+      <attribute name="name">Limonia guamicola</attribute>
+    </box>
+  </image>
+  <image id="2" name="tipulidae-of-guam-2.jpg" width="1398" height="1978">
+    <box label="species" xtl="189.61" ytl="1465.14" xbr="1155.96" ybr="1725.40" occluded="0">
+      <attribute name="name">Limonia fullawayi</attribute>
+    </box>
+  </image>
+  <image id="3" name="tipulidae-of-guam-3.jpg" width="1402" height="1981">
+    <box label="species" xtl="267.97" ytl="255.91" xbr="1233.38" ybr="485.19" occluded="0">
+      <attribute name="name">Limonia soridida</attribute>
+    </box>
+    <box label="species" xtl="263.15" ytl="499.67" xbr="1233.38" ybr="644.48" occluded="0">
+      <attribute name="name">Limonia obesula</attribute>
+    </box>
+    <box label="species" xtl="267.97" ytl="658.96" xbr="1233.38" ybr="1083.74" occluded="0">
+      <attribute name="name">Conosia irrorata insularis</attribute>
+    </box>
+    <box label="species" xtl="263.15" ytl="1090.98" xbr="1235.79" ybr="1264.75" occluded="0">
+      <attribute name="name">Trentepholia guamensis</attribute>
+    </box>
+    <box label="species" xtl="267.97" ytl="1271.99" xbr="1238.20" ybr="1385.43" occluded="0">
+      <attribute name="name">Gonomyia pietatis</attribute>
+    </box>
+    <box label="species" xtl="263.15" ytl="1399.91" xbr="1238.20" ybr="1520.59" occluded="0">
+      <attribute name="name">Styringomyia didyama</attribute>
+    </box>
+  </image>
+</annotations>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>40</id>
+      <name>trypetidae</name>
+      <size>10</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <flipped>False</flipped>
+      <created>2019-12-09 06:12:20.991354+03:00</created>
+      <updated>2019-12-09 09:07:08.226626+03:00</updated>
+      <source>10 images: trypetidae-otitidae-helomyzidae-and-clusiidae-of-guam-diptera-0.jpg, trypetidae-otitidae-helomyzidae-and-clusiidae-of-guam-diptera-1.jpg, ...</source>
+      <labels>
+        <label>
+          <name>species</name>
+          <attributes>
+            <attribute>@text=name:</attribute>
+          </attributes>
+        </label>
+      </labels>
+      <segments>
+        <segment>
+          <id>37</id>
+          <start>0</start>
+          <stop>9</stop>
+          <url>http://54.199.246.37/?id=37</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>aubreymoore</username>
+        <email>aubreymoore@guam.net</email>
+      </owner>
+    </task>
+    <dumped>2019-12-10 00:53:41.565515+03:00</dumped>
+  </meta>
+  <image id="0" name="trypetidae-otitidae-helomyzidae-and-clusiidae-of-guam-diptera-0.jpg" width="1402" height="1981">
+    <box label="species" xtl="173.69" ytl="1199.03" xbr="1145.12" ybr="1651.56" occluded="0">
+      <attribute name="name">Dacus ochrosiae</attribute>
+    </box>
+  </image>
+  <image id="1" name="trypetidae-otitidae-helomyzidae-and-clusiidae-of-guam-diptera-1.jpg" width="1387" height="1970">
+    <box label="species" xtl="262.99" ytl="1063.19" xbr="1237.44" ybr="1293.60" occluded="0">
+      <attribute name="name">Spathulina acroleuca</attribute>
+    </box>
+    <box label="species" xtl="270.19" ytl="235.15" xbr="1237.44" ybr="650.37" occluded="0">
+      <attribute name="name">Dacus ochrosiae</attribute>
+    </box>
+  </image>
+  <image id="2" name="trypetidae-otitidae-helomyzidae-and-clusiidae-of-guam-diptera-2.jpg" width="1387" height="1970">
+    <box label="species" xtl="169.39" ytl="880.78" xbr="1189.43" ybr="1368.00" occluded="0">
+      <attribute name="name">Cycasia oculata</attribute>
+    </box>
+  </image>
+  <image id="3" name="trypetidae-otitidae-helomyzidae-and-clusiidae-of-guam-diptera-3.jpg" width="1398" height="1978">
+    <box label="species" xtl="298.05" ytl="252.98" xbr="1257.17" ybr="501.20" occluded="0">
+      <attribute name="name">Rhabdochaeta guamae</attribute>
+    </box>
+  </image>
+  <image id="4" name="trypetidae-otitidae-helomyzidae-and-clusiidae-of-guam-diptera-4.jpg" width="1390" height="1973">
+    <box label="species" xtl="170.03" ytl="983.22" xbr="1153.17" ybr="1427.92" occluded="0">
+      <attribute name="name">Chrysomyza aenea</attribute>
+    </box>
+    <box label="species" xtl="167.63" ytl="1437.50" xbr="1157.98" ybr="1687.53" occluded="0">
+      <attribute name="name">Pogonortalis fulvofemoralis</attribute>
+    </box>
+  </image>
+  <image id="5" name="trypetidae-otitidae-helomyzidae-and-clusiidae-of-guam-diptera-5.jpg" width="1402" height="1981">
+    <box label="species" xtl="292.11" ytl="258.32" xbr="1284.06" ybr="890.66" occluded="0">
+      <attribute name="name">Pogonortalis fulvofemoralis</attribute>
+    </box>
+  </image>
+  <image id="6" name="trypetidae-otitidae-helomyzidae-and-clusiidae-of-guam-diptera-6.jpg" width="1390" height="1973">
+    <box label="species" xtl="167.63" ytl="206.81" xbr="1133.94" ybr="774.10" occluded="0">
+      <attribute name="name">Guamomyia fascipennis</attribute>
+    </box>
+    <box label="species" xtl="162.82" ytl="1540.90" xbr="1131.54" ybr="1680.31" occluded="0">
+      <attribute name="name">Scholastes aitapensis</attribute>
+    </box>
+  </image>
+  <image id="7" name="trypetidae-otitidae-helomyzidae-and-clusiidae-of-guam-diptera-7.jpg" width="1394" height="1975">
+    <box label="species" xtl="275.00" ytl="356.09" xbr="1247.10" ybr="1210.29" occluded="0">
+      <attribute name="name">Scholastes hirtiventris</attribute>
+    </box>
+    <box label="species" xtl="272.60" ytl="264.65" xbr="1251.90" ybr="344.05" occluded="0">
+      <attribute name="name">Scholastes aitapensis</attribute>
+    </box>
+  </image>
+  <image id="8" name="trypetidae-otitidae-helomyzidae-and-clusiidae-of-guam-diptera-8.jpg" width="1390" height="1973">
+    <box label="species" xtl="177.92" ytl="210.98" xbr="1143.43" ybr="649.66" occluded="0">
+      <attribute name="name">Psudorhicnoessa spinipes</attribute>
+    </box>
+    <box label="species" xtl="179.93" ytl="1202.53" xbr="1149.44" ybr="1673.26" occluded="0">
+      <attribute name="name">Czernyola atrifrons</attribute>
+    </box>
+  </image>
+  <image id="9" name="trypetidae-otitidae-helomyzidae-and-clusiidae-of-guam-diptera-9.jpg" width="1398" height="1978">
+    <box label="species" xtl="281.18" ytl="274.67" xbr="1245.12" ybr="443.40" occluded="0">
+      <attribute name="name">Czernyola atrifrons</attribute>
+    </box>
+  </image>
+</annotations>

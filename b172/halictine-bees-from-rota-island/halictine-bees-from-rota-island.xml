@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>37</id>
+      <name>halictidae</name>
+      <size>4</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <flipped>False</flipped>
+      <created>2019-12-09 06:09:41.791608+03:00</created>
+      <updated>2019-12-09 09:50:18.934462+03:00</updated>
+      <source>4 images: halictine-bees-from-rota-island-0.jpg, halictine-bees-from-rota-island-1.jpg, ...</source>
+      <labels>
+        <label>
+          <name>species</name>
+          <attributes>
+            <attribute>@text=name:</attribute>
+          </attributes>
+        </label>
+      </labels>
+      <segments>
+        <segment>
+          <id>34</id>
+          <start>0</start>
+          <stop>3</stop>
+          <url>http://54.199.246.37/?id=34</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>aubreymoore</username>
+        <email>aubreymoore@guam.net</email>
+      </owner>
+    </task>
+    <dumped>2019-12-10 00:54:20.179637+03:00</dumped>
+  </meta>
+  <image id="0" name="halictine-bees-from-rota-island-0.jpg" width="1387" height="1970">
+    <box label="species" xtl="169.95" ytl="613.57" xbr="1147.99" ybr="929.58" occluded="0">
+      <attribute name="name">Haliticus swezeyi</attribute>
+    </box>
+    <box label="species" xtl="173.95" ytl="945.58" xbr="1149.99" ybr="1371.60" occluded="0">
+      <attribute name="name">Haliticus rotaensis</attribute>
+    </box>
+    <box label="species" xtl="169.95" ytl="1395.60" xbr="1151.99" ybr="1679.61" occluded="0">
+      <attribute name="name">Haliticus rotaensis hornbosteli</attribute>
+    </box>
+  </image>
+</annotations>

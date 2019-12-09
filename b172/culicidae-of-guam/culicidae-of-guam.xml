@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>39</id>
+      <name>culicidae</name>
+      <size>2</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <flipped>False</flipped>
+      <created>2019-12-09 06:11:11.903522+03:00</created>
+      <updated>2019-12-09 09:18:14.165633+03:00</updated>
+      <source>2 images: culicidae-of-guam-0.jpg, culicidae-of-guam-1.jpg, ...</source>
+      <labels>
+        <label>
+          <name>species</name>
+          <attributes>
+            <attribute>@text=name:</attribute>
+          </attributes>
+        </label>
+      </labels>
+      <segments>
+        <segment>
+          <id>36</id>
+          <start>0</start>
+          <stop>1</stop>
+          <url>http://54.199.246.37/?id=36</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>aubreymoore</username>
+        <email>aubreymoore@guam.net</email>
+      </owner>
+    </task>
+    <dumped>2019-12-10 00:53:56.206276+03:00</dumped>
+  </meta>
+  <image id="0" name="culicidae-of-guam-0.jpg" width="1387" height="1970">
+    <box label="species" xtl="166.99" ytl="369.56" xbr="1136.63" ybr="609.57" occluded="0">
+      <attribute name="name">Culex quinquefasciatus</attribute>
+    </box>
+    <box label="species" xtl="162.19" ytl="614.37" xbr="1136.63" ybr="947.98" occluded="0">
+      <attribute name="name">Aedes pseudoscutellaris</attribute>
+    </box>
+    <box label="species" xtl="162.19" ytl="960.00" xbr="1139.03" ybr="1216.79" occluded="0">
+      <attribute name="name">Aedes aegypti</attribute>
+    </box>
+    <box label="species" xtl="162.19" ytl="1231.20" xbr="1143.83" ybr="1670.41" occluded="0">
+      <attribute name="name">Aedes pandani</attribute>
+    </box>
+  </image>
+  <image id="1" name="culicidae-of-guam-1.jpg" width="1405" height="1983">
+    <box label="species" xtl="271.58" ytl="239.20" xbr="1242.79" ybr="437.31" occluded="0">
+      <attribute name="name">Aedes pandani</attribute>
+    </box>
+    <box label="species" xtl="271.58" ytl="442.14" xbr="1242.79" ybr="724.81" occluded="0">
+      <attribute name="name">Aedes oakleyi</attribute>
+    </box>
+  </image>
+</annotations>

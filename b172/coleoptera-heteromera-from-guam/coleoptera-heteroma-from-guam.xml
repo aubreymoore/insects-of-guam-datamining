@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>41</id>
+      <name>heteroma</name>
+      <size>5</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <flipped>False</flipped>
+      <created>2019-12-09 06:14:02.157181+03:00</created>
+      <updated>2019-12-09 08:28:14.433152+03:00</updated>
+      <source>5 images: coleoptera-heteromera-from-guam-0.jpg, coleoptera-heteromera-from-guam-1.jpg, ...</source>
+      <labels>
+        <label>
+          <name>species</name>
+          <attributes>
+            <attribute>@text=name:</attribute>
+          </attributes>
+        </label>
+      </labels>
+      <segments>
+        <segment>
+          <id>38</id>
+          <start>0</start>
+          <stop>4</stop>
+          <url>http://54.199.246.37/?id=38</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>aubreymoore</username>
+        <email>aubreymoore@guam.net</email>
+      </owner>
+    </task>
+    <dumped>2019-12-10 00:53:28.242199+03:00</dumped>
+  </meta>
+  <image id="0" name="coleoptera-heteromera-from-guam-0.jpg" width="1398" height="1978">
+    <box label="species" xtl="245.01" ytl="662.88" xbr="1257.16" ybr="1332.83" occluded="0">
+      <attribute name="name">Gonoxephalum incisum</attribute>
+    </box>
+    <box label="species" xtl="244.11" ytl="1337.61" xbr="1256.61" ybr="1735.91" occluded="0">
+      <attribute name="name">Uloma cavicollis</attribute>
+    </box>
+  </image>
+  <image id="1" name="coleoptera-heteromera-from-guam-1.jpg" width="1390" height="1973">
+    <box label="species" xtl="165.32" ytl="257.26" xbr="1144.87" ybr="890.27" occluded="0">
+      <attribute name="name">Formicomus imperator</attribute>
+    </box>
+    <box label="species" xtl="167.32" ytl="1485.21" xbr="1140.86" ybr="1685.53" occluded="0">
+      <attribute name="name">Euglenes bifossicollis</attribute>
+    </box>
+    <box label="species" xtl="167.32" ytl="898.28" xbr="1140.86" ybr="1423.11" occluded="0">
+      <attribute name="name">Anthicus oceanicus guamensis</attribute>
+    </box>
+  </image>
+  <image id="2" name="coleoptera-heteromera-from-guam-2.jpg" width="1402" height="1981">
+    <box label="species" xtl="277.60" ytl="243.81" xbr="1240.61" ybr="692.73" occluded="0">
+      <attribute name="name">Euglenes bifossicollis</attribute>
+    </box>
+    <box label="species" xtl="272.64" ytl="1595.85" xbr="1266.20" ybr="1710.49" occluded="0">
+      <attribute name="name">Glipa guamensis</attribute>
+    </box>
+    <box label="species" xtl="275.67" ytl="1276.69" xbr="1245.11" ybr="1538.16" occluded="0">
+      <attribute name="name">Micropelecotoids fulvosericans</attribute>
+    </box>
+    <box label="species" xtl="273.35" ytl="704.36" xbr="1241.75" ybr="1210.68" occluded="0">
+      <attribute name="name">Euglenes guamensis</attribute>
+    </box>
+  </image>
+  <image id="3" name="coleoptera-heteromera-from-guam-3.jpg" width="1390" height="1973">
+    <box label="species" xtl="179.58" ytl="208.93" xbr="1140.81" ybr="560.87" occluded="0">
+      <attribute name="name">Glipa guamensis</attribute>
+    </box>
+    <box label="species" xtl="157.32" ytl="566.44" xbr="1140.81" ybr="1133.99" occluded="0">
+      <attribute name="name">Mordellistena castanea</attribute>
+    </box>
+    <box label="species" xtl="158.49" ytl="1167.91" xbr="1143.37" ybr="1338.17" occluded="0">
+      <attribute name="name">Zonitis oceanica</attribute>
+    </box>
+    <box label="species" xtl="159.97" ytl="1396.90" xbr="1146.23" ybr="1675.12" occluded="0">
+      <attribute name="name">Lissodema guamense</attribute>
+    </box>
+  </image>
+  <image id="4" name="coleoptera-heteromera-from-guam-4.jpg" width="1390" height="1973">
+    <box label="species" xtl="251.74" ytl="826.97" xbr="1246.91" ybr="1331.77" occluded="0">
+      <attribute name="name">Dorcatomiella guamensis</attribute>
+    </box>
+    <box label="species" xtl="263.76" ytl="242.84" xbr="1230.09" ybr="665.91" occluded="0">
+      <attribute name="name">Lissodema guamense</attribute>
+    </box>
+  </image>
+</annotations>

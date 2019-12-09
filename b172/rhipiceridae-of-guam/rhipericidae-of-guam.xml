@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>28</id>
+      <name>rhipericidae-of-guam</name>
+      <size>3</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <flipped>False</flipped>
+      <created>2019-12-09 05:50:48.548312+03:00</created>
+      <updated>2019-12-09 07:17:54.981776+03:00</updated>
+      <source>3 images: rhipiceridae-of-guam-0.jpg, rhipiceridae-of-guam-1.jpg, ...</source>
+      <labels>
+        <label>
+          <name>species</name>
+          <attributes>
+            <attribute>@text=name:</attribute>
+          </attributes>
+        </label>
+      </labels>
+      <segments>
+        <segment>
+          <id>25</id>
+          <start>0</start>
+          <stop>2</stop>
+          <url>http://54.199.246.37/?id=25</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>aubreymoore</username>
+        <email>aubreymoore@guam.net</email>
+      </owner>
+    </task>
+    <dumped>2019-12-10 00:55:13.270623+03:00</dumped>
+  </meta>
+  <image id="0" name="rhipiceridae-of-guam-0.jpg" width="1390" height="1973">
+    <box label="species" xtl="170.01" ytl="591.39" xbr="1145.95" ybr="1682.72" occluded="0">
+      <attribute name="name">Callirhipis onoi</attribute>
+    </box>
+  </image>
+  <image id="1" name="rhipiceridae-of-guam-1.jpg" width="1398" height="1978">
+    <box label="species" xtl="269.11" ytl="248.38" xbr="1242.71" ybr="1426.82" occluded="0">
+      <attribute name="name">Callirhipis onoi</attribute>
+    </box>
+  </image>
+</annotations>
