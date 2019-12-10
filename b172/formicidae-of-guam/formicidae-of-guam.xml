@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>35</id>
+      <name>formicidae</name>
+      <size>9</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <flipped>False</flipped>
+      <created>2019-12-09 06:07:31.793529+03:00</created>
+      <updated>2019-12-10 04:50:05.353103+03:00</updated>
+      <source>9 images: formicidae-of-guam-0.jpg, formicidae-of-guam-1.jpg, ...</source>
+      <labels>
+        <label>
+          <name>species</name>
+          <attributes>
+            <attribute>@text=name:</attribute>
+          </attributes>
+        </label>
+      </labels>
+      <segments>
+        <segment>
+          <id>32</id>
+          <start>0</start>
+          <stop>8</stop>
+          <url>http://54.199.246.37/?id=32</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>aubreymoore</username>
+        <email>aubreymoore@guam.net</email>
+      </owner>
+    </task>
+    <dumped>2019-12-10 11:27:50.354503+03:00</dumped>
+  </meta>
+  <image id="0" name="formicidae-of-guam-0.jpg" width="1390" height="1973">
+    <box label="species" xtl="179.93" ytl="1479.56" xbr="1141.43" ybr="1679.87" occluded="0">
+      <attribute name="name">Cerapachys silvestrii</attribute>
+    </box>
+  </image>
+  <image id="1" name="formicidae-of-guam-1.jpg" width="1390" height="1973">
+    <box label="species" xtl="290.22" ytl="391.90" xbr="1266.15" ybr="668.30" occluded="0">
+      <attribute name="name">Ponera punctatissima</attribute>
+    </box>
+    <box label="species" xtl="290.22" ytl="677.95" xbr="1266.15" ybr="1240.43" occluded="0">
+      <attribute name="name">Odontomachus haematoda</attribute>
+    </box>
+    <box label="species" xtl="280.61" ytl="1302.92" xbr="1268.55" ybr="1588.97" occluded="0">
+      <attribute name="name">Cremastogaster biroi</attribute>
+    </box>
+    <box label="species" xtl="290.22" ytl="254.88" xbr="1263.74" ybr="377.48" occluded="0">
+      <attribute name="name">Cerapachys silvestrii</attribute>
+    </box>
+    <box label="species" xtl="280.61" ytl="1600.99" xbr="1268.55" ybr="1730.79" occluded="0">
+      <attribute name="name">Strumigenys godeffroyi</attribute>
+    </box>
+  </image>
+  <image id="2" name="formicidae-of-guam-2.jpg" width="1387" height="1970">
+    <box label="species" xtl="176.59" ytl="347.96" xbr="1141.43" ybr="647.97" occluded="0">
+      <attribute name="name">Monomorium pharaonis</attribute>
+    </box>
+    <box label="species" xtl="176.59" ytl="1432.80" xbr="1143.83" ybr="1696.82" occluded="0">
+      <attribute name="name">Monomorium minutum</attribute>
+    </box>
+    <box label="species" xtl="176.59" ytl="1027.19" xbr="1143.83" ybr="1425.60" occluded="0">
+      <attribute name="name">Monomorium floricola</attribute>
+    </box>
+    <box label="species" xtl="176.59" ytl="655.17" xbr="1141.43" ybr="1017.59" occluded="0">
+      <attribute name="name">Monomorium destructor</attribute>
+    </box>
+    <box label="species" xtl="178.99" ytl="211.15" xbr="1139.03" ybr="333.56" occluded="0">
+      <attribute name="name">Strumigenys godeffroyi</attribute>
+    </box>
+  </image>
+  <image id="3" name="formicidae-of-guam-3.jpg" width="1387" height="1970">
+    <box label="species" xtl="277.39" ytl="266.35" xbr="1254.24" ybr="635.97" occluded="0">
+      <attribute name="name">Monomorium minutum</attribute>
+    </box>
+    <box label="species" xtl="274.99" ytl="1538.41" xbr="1256.64" ybr="1742.42" occluded="0">
+      <attribute name="name">Pheidole javana</attribute>
+    </box>
+    <box label="species" xtl="274.99" ytl="1413.60" xbr="1259.04" ybr="1531.21" occluded="0">
+      <attribute name="name">Solenopsis </attribute>
+    </box>
+    <box label="species" xtl="272.59" ytl="911.98" xbr="1259.04" ybr="1404.00" occluded="0">
+      <attribute name="name">Solenopsis geminata </attribute>
+    </box>
+    <box label="species" xtl="274.99" ytl="643.17" xbr="1256.64" ybr="904.78" occluded="0">
+      <attribute name="name">Cardiocondyla wroughtoni</attribute>
+    </box>
+  </image>
+  <image id="4" name="formicidae-of-guam-4.jpg" width="1405" height="1983">
+    <box label="species" xtl="201.51" ytl="628.17" xbr="1170.31" ybr="705.48" occluded="0">
+      <attribute name="name">Pheidole umboata</attribute>
+    </box>
+    <box label="species" xtl="203.93" ytl="707.90" xbr="1175.14" ybr="867.35" occluded="0">
+      <attribute name="name">Pheidole </attribute>
+    </box>
+    <box label="species" xtl="203.90" ytl="874.60" xbr="1177.56" ybr="1002.64" occluded="0">
+      <attribute name="name">Pheidole </attribute>
+    </box>
+    <box label="species" xtl="201.51" ytl="1007.47" xbr="1172.72" ybr="1471.33" occluded="0">
+      <attribute name="name">Tetramorium guineense</attribute>
+    </box>
+    <box label="species" xtl="206.35" ytl="1478.58" xbr="1172.72" ybr="1679.11" occluded="0">
+      <attribute name="name">Triglyphotrix striatidens</attribute>
+    </box>
+    <box label="species" xtl="199.10" ytl="215.04" xbr="1167.89" ybr="616.09" occluded="0">
+      <attribute name="name">Pheidole umbonata</attribute>
+    </box>
+  </image>
+  <image id="5" name="formicidae-of-guam-5.jpg" width="1398" height="1978">
+    <box label="species" xtl="261.90" ytl="1535.03" xbr="1249.94" ybr="1720.58" occluded="0">
+      <attribute name="name">Tapinoma indicum</attribute>
+    </box>
+    <box label="species" xtl="264.31" ytl="252.98" xbr="1240.30" ybr="544.58" occluded="0">
+      <attribute name="name">Triglyphotrix striatidens</attribute>
+    </box>
+    <box label="species" xtl="261.90" ytl="556.62" xbr="1240.30" ybr="1007.27" occluded="0">
+      <attribute name="name">Vollenhovia oblonga</attribute>
+    </box>
+    <box label="species" xtl="259.49" ytl="1062.70" xbr="1245.12" ybr="1525.39" occluded="0">
+      <attribute name="name">Tapinoma melanocephalum</attribute>
+    </box>
+  </image>
+  <image id="6" name="formicidae-of-guam-6.jpg" width="1405" height="1983">
+    <box label="species" xtl="191.85" ytl="753.42" xbr="1177.55" ybr="1379.15" occluded="0">
+      <attribute name="name">ANoplolepis longipes</attribute>
+    </box>
+    <box label="species" xtl="196.68" ytl="297.19" xbr="1163.06" ybr="712.73" occluded="0">
+      <attribute name="name">Technomyrmex albipes</attribute>
+    </box>
+    <box label="species" xtl="191.85" ytl="202.96" xbr="1160.64" ybr="287.52" occluded="0">
+      <attribute name="name">Tapinoma indicum</attribute>
+    </box>
+    <box label="species" xtl="199.10" ytl="1389.19" xbr="1187.22" ybr="1674.27" occluded="0">
+      <attribute name="name">Nylanderia minutula atomus fullawayi</attribute>
+    </box>
+  </image>
+  <image id="7" name="formicidae-of-guam-7.jpg" width="1394" height="1975">
+    <box label="species" xtl="258.15" ytl="1280.06" xbr="1227.85" ybr="1722.80" occluded="0">
+      <attribute name="name">Camponotus irritans chloroticus</attribute>
+    </box>
+    <box label="species" xtl="267.78" ytl="375.30" xbr="1227.85" ybr="883.04" occluded="0">
+      <attribute name="name">Nylanderia bourbonica</attribute>
+    </box>
+    <box label="species" xtl="267.78" ytl="250.21" xbr="1230.26" ybr="363.30" occluded="0">
+      <attribute name="name">Nylanderia minutula atomus fullawayi</attribute>
+    </box>
+    <box label="species" xtl="262.96" ytl="887.86" xbr="1227.85" ybr="1275.25" occluded="0">
+      <attribute name="name">Paratrechina longicornis</attribute>
+    </box>
+  </image>
+  <image id="8" name="formicidae-of-guam-8.jpg" width="1409" height="1987">
+    <box label="species" xtl="202.41" ytl="203.38" xbr="1156.22" ybr="292.95" occluded="0">
+      <attribute name="name">Camponotus irritans chloroticus</attribute>
+    </box>
+    <box label="species" xtl="199.99" ytl="300.21" xbr="1158.64" ybr="682.70" occluded="0">
+      <attribute name="name">Camponotus reticulatus fullawayi</attribute>
+    </box>
+  </image>
+</annotations>

@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>32</id>
+      <name>curculionidae</name>
+      <size>87</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <flipped>False</flipped>
+      <created>2019-12-09 06:02:46.310851+03:00</created>
+      <updated>2019-12-10 08:33:11.802171+03:00</updated>
+      <source>87 images: curculionidae-of-guam-0.jpg, curculionidae-of-guam-1.jpg, ...</source>
+      <labels>
+        <label>
+          <name>species</name>
+          <attributes>
+            <attribute>@text=name:</attribute>
+          </attributes>
+        </label>
+      </labels>
+      <segments>
+        <segment>
+          <id>29</id>
+          <start>0</start>
+          <stop>86</stop>
+          <url>http://54.199.246.37/?id=29</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>aubreymoore</username>
+        <email>aubreymoore@guam.net</email>
+      </owner>
+    </task>
+    <dumped>2019-12-10 11:28:07.082505+03:00</dumped>
+  </meta>
+  <image id="2" name="curculionidae-of-guam-10.jpg" width="1390" height="1973">
+    <box label="species" xtl="176.52" ytl="621.94" xbr="1169.27" ybr="1672.38" occluded="0">
+      <attribute name="name">Trigonops inusitata</attribute>
+    </box>
+  </image>
+  <image id="3" name="curculionidae-of-guam-11.jpg" width="1398" height="1978">
+    <box label="species" xtl="293.23" ytl="248.16" xbr="1278.86" ybr="677.12" occluded="0">
+      <attribute name="name">Trigonops inusitata</attribute>
+    </box>
+    <box label="species" xtl="273.95" ytl="1448.27" xbr="1249.94" ybr="1725.40" occluded="0">
+      <attribute name="name">Trigonops inaequalis</attribute>
+    </box>
+  </image>
+  <image id="4" name="curculionidae-of-guam-12.jpg" width="1402" height="1981">
+    <box label="species" xtl="183.50" ytl="212.46" xbr="1158.56" ybr="463.47" occluded="0">
+      <attribute name="name">Trigonops inaequalis</attribute>
+    </box>
+  </image>
+  <image id="5" name="curculionidae-of-guam-13.jpg" width="1402" height="1981">
+    <box label="species" xtl="282.46" ytl="446.57" xbr="1296.13" ybr="1733.00" occluded="0">
+      <attribute name="name">Trigonops subfasciata</attribute>
+    </box>
+  </image>
+  <image id="6" name="curculionidae-of-guam-14.jpg" width="1394" height="1975">
+    <box label="species" xtl="176.34" ytl="430.68" xbr="1143.63" ybr="1684.31" occluded="0">
+      <attribute name="name">Trigonops hirsuta</attribute>
+    </box>
+  </image>
+  <image id="7" name="curculionidae-of-guam-15.jpg" width="1394" height="1975">
+    <box label="species" xtl="303.87" ytl="247.81" xbr="1273.57" ybr="356.09" occluded="0">
+      <attribute name="name">Trigonops hirsuta</attribute>
+    </box>
+    <box label="species" xtl="284.62" ytl="964.85" xbr="1283.19" ybr="1739.65" occluded="0">
+      <attribute name="name">Trigonops impura</attribute>
+    </box>
+  </image>
+  <image id="8" name="curculionidae-of-guam-16.jpg" width="1398" height="1978">
+    <box label="species" xtl="182.38" ytl="1101.25" xbr="1163.19" ybr="1684.44" occluded="0">
+      <attribute name="name">Trigonops incrinita</attribute>
+    </box>
+    <box label="species" xtl="182.38" ytl="207.20" xbr="1151.14" ybr="845.81" occluded="0">
+      <attribute name="name">Trigonops impura</attribute>
+    </box>
+  </image>
+  <image id="9" name="curculionidae-of-guam-17.jpg" width="1417" height="1992">
+    <box label="species" xtl="275.56" ytl="1169.63" xbr="1253.61" ybr="1747.48" occluded="0">
+      <attribute name="name">Trigonops convexa</attribute>
+    </box>
+    <box label="species" xtl="273.13" ytl="240.37" xbr="1263.31" ybr="931.80" occluded="0">
+      <attribute name="name">Trigonops incrinita</attribute>
+    </box>
+  </image>
+  <image id="10" name="curculionidae-of-guam-18.jpg" width="1390" height="1973">
+    <box label="species" xtl="170.03" ytl="209.21" xbr="1138.75" ybr="733.23" occluded="0">
+      <attribute name="name">Trigonops convexa</attribute>
+    </box>
+  </image>
+  <image id="11" name="curculionidae-of-guam-19.jpg" width="1390" height="1973">
+    <box label="species" xtl="285.41" ytl="790.92" xbr="1258.94" ybr="1709.16" occluded="0">
+      <attribute name="name">Trigonops vulgaris</attribute>
+    </box>
+  </image>
+  <image id="12" name="curculionidae-of-guam-2.jpg" width="1405" height="1983">
+    <box label="species" xtl="155.61" ytl="219.88" xbr="1150.98" ybr="722.39" occluded="0">
+      <attribute name="name">Trigonops vulgaris</attribute>
+    </box>
+  </image>
+  <image id="13" name="curculionidae-of-guam-20.jpg" width="1390" height="1973">
+    <box label="species" xtl="172.44" ytl="1180.33" xbr="1165.19" ybr="1492.82" occluded="0">
+      <attribute name="name">Cylas formicarius</attribute>
+    </box>
+  </image>
+  <image id="14" name="curculionidae-of-guam-21.jpg" width="1390" height="1973">
+    <box label="species" xtl="302.24" ytl="1605.80" xbr="1278.17" ybr="1735.60" occluded="0">
+      <attribute name="name">Usingerius maculatus</attribute>
+    </box>
+  </image>
+  <image id="15" name="curculionidae-of-guam-22.jpg" width="1394" height="1975">
+    <box label="species" xtl="164.31" ytl="218.93" xbr="1196.57" ybr="1243.97" occluded="0">
+      <attribute name="name">Usingerius maculatus</attribute>
+    </box>
+  </image>
+  <image id="16" name="curculionidae-of-guam-23.jpg" width="1402" height="1981">
+    <box label="species" xtl="294.52" ytl="716.89" xbr="1269.58" ybr="1730.56" occluded="0">
+      <attribute name="name">Amblycnemus dentipes</attribute>
+    </box>
+  </image>
+  <image id="17" name="curculionidae-of-guam-24.jpg" width="1394" height="1975">
+    <box label="species" xtl="171.53" ytl="1150.13" xbr="1153.26" ybr="1677.09" occluded="0">
+      <attribute name="name">Athesapeuta ulvae</attribute>
+    </box>
+  </image>
+  <image id="18" name="curculionidae-of-guam-25.jpg" width="1394" height="1975">
+    <box label="species" xtl="291.84" ytl="252.62" xbr="1278.38" ybr="1089.98" occluded="0">
+      <attribute name="name">Athesapeuta ulvae</attribute>
+    </box>
+  </image>
+  <image id="19" name="curculionidae-of-guam-26.jpg" width="1390" height="1973">
+    <box label="species" xtl="177.24" ytl="391.90" xbr="1155.57" ybr="579.39" occluded="0">
+      <attribute name="name">Fergusoniella</attribute>
+    </box>
+  </image>
+  <image id="20" name="curculionidae-of-guam-27.jpg" width="1402" height="1981">
+    <box label="species" xtl="265.90" ytl="242.37" xbr="1267.50" ybr="1437.05" occluded="0">
+      <attribute name="name">Swezeyella muscosa</attribute>
+    </box>
+  </image>
+  <image id="22" name="curculionidae-of-guam-29.jpg" width="1409" height="1987">
+    <box label="species" xtl="282.30" ytl="254.22" xbr="1267.57" ybr="1631.66" occluded="0">
+      <attribute name="name">Deretiosus ficae</attribute>
+    </box>
+  </image>
+  <image id="24" name="curculionidae-of-guam-30.jpg" width="1390" height="1973">
+    <box label="species" xtl="174.84" ytl="584.20" xbr="1155.57" ybr="1310.14" occluded="0">
+      <attribute name="name">Camptorhinus dorsalis</attribute>
+    </box>
+  </image>
+  <image id="25" name="curculionidae-of-guam-31.jpg" width="1417" height="1992">
+    <box label="species" xtl="285.27" ytl="237.70" xbr="1270.59" ybr="1594.34" occluded="0">
+      <attribute name="name">Oreda maculata</attribute>
+    </box>
+  </image>
+  <image id="26" name="curculionidae-of-guam-32.jpg" width="1390" height="1973">
+    <box label="species" xtl="191.67" ytl="1415.90" xbr="1160.38" ybr="1540.90" occluded="0">
+      <attribute name="name">Menectetorus tutuilae</attribute>
+    </box>
+    <box label="species" xtl="186.86" ytl="1550.51" xbr="1160.38" ybr="1675.51" occluded="0">
+      <attribute name="name">Menectetorus vitiensis</attribute>
+    </box>
+  </image>
+  <image id="27" name="curculionidae-of-guam-33.jpg" width="1405" height="1983">
+    <box label="species" xtl="281.24" ytl="548.44" xbr="1271.78" ybr="1096.86" occluded="0">
+      <attribute name="name">Menectetorus setulosus</attribute>
+    </box>
+  </image>
+  <image id="29" name="curculionidae-of-guam-35.jpg" width="1402" height="1981">
+    <box label="species" xtl="282.46" ytl="253.49" xbr="1293.71" ybr="1484.38" occluded="0">
+      <attribute name="name">Neoampagia imitator</attribute>
+    </box>
+  </image>
+  <image id="30" name="curculionidae-of-guam-36.jpg" width="1387" height="1970">
+    <box label="species" xtl="171.79" ytl="266.35" xbr="1148.63" ybr="957.58" occluded="0">
+      <attribute name="name">Anaballus amplicollis </attribute>
+    </box>
+    <box label="species" xtl="154.99" ytl="1007.98" xbr="1165.43" ybr="1684.81" occluded="0">
+      <attribute name="name">Euscepes postfasciatus</attribute>
+    </box>
+  </image>
+  <image id="31" name="curculionidae-of-guam-37.jpg" width="1409" height="1987">
+    <box label="species" xtl="267.78" ytl="433.36" xbr="1233.68" ybr="1031.30" occluded="0">
+      <attribute name="name">Acalles samoanus</attribute>
+    </box>
+  </image>
+  <image id="32" name="curculionidae-of-guam-38.jpg" width="1402" height="1981">
+    <box label="species" xtl="166.61" ytl="1337.16" xbr="1141.66" ybr="1706.42" occluded="0">
+      <attribute name="name">Daealus tuberosus</attribute>
+    </box>
+  </image>
+  <image id="33" name="curculionidae-of-guam-39.jpg" width="1402" height="1981">
+    <box label="species" xtl="284.87" ytl="253.49" xbr="1279.23" ybr="1426.46" occluded="0">
+      <attribute name="name">Daealus tuberosus</attribute>
+    </box>
+  </image>
+  <image id="35" name="curculionidae-of-guam-40.jpg" width="1402" height="1981">
+    <box label="species" xtl="190.74" ytl="473.12" xbr="1160.97" ybr="1588.16" occluded="0">
+      <attribute name="name">Daealus tibialis</attribute>
+    </box>
+  </image>
+  <image id="37" name="curculionidae-of-guam-42.jpg" width="1394" height="1975">
+    <box label="species" xtl="181.15" ytl="469.18" xbr="1141.23" ybr="1431.65" occluded="0">
+      <attribute name="name">Microcryptorhynchus guamae</attribute>
+    </box>
+  </image>
+  <image id="38" name="curculionidae-of-guam-43.jpg" width="1433" height="2004">
+    <box label="species" xtl="295.59" ytl="544.38" xbr="1279.53" ybr="1447.75" occluded="0">
+      <attribute name="name">Microcryptorhynchus premnae</attribute>
+    </box>
+  </image>
+  <image id="39" name="curculionidae-of-guam-44.jpg" width="1394" height="1975">
+    <box label="species" xtl="176.34" ytl="594.30" xbr="1167.70" ybr="1535.12" occluded="0">
+      <attribute name="name">Microcryptorhynchus spinifer</attribute>
+    </box>
+  </image>
+  <image id="40" name="curculionidae-of-guam-45.jpg" width="1398" height="1978">
+    <box label="species" xtl="245.03" ytl="484.33" xbr="1235.48" ybr="1400.07" occluded="0">
+      <attribute name="name">Microcryptorhynchus basipennis</attribute>
+    </box>
+  </image>
+  <image id="41" name="curculionidae-of-guam-46.jpg" width="1398" height="1978">
+    <box label="species" xtl="175.15" ytl="1380.79" xbr="1129.45" ybr="1694.08" occluded="0">
+      <attribute name="name">Cylindrotrypetes suffusus</attribute>
+    </box>
+  </image>
+  <image id="44" name="curculionidae-of-guam-49.jpg" width="1387" height="1970">
+    <box label="species" xtl="231.79" ytl="513.56" xbr="1235.04" ybr="1548.01" occluded="0">
+      <attribute name="name">Choerorrhinodes constricticeps</attribute>
+    </box>
+  </image>
+  <image id="46" name="curculionidae-of-guam-50.jpg" width="1402" height="1981">
+    <box label="species" xtl="181.09" ytl="545.53" xbr="1158.56" ybr="1691.94" occluded="0">
+      <attribute name="name">Choerorrhinodes marshalli</attribute>
+    </box>
+  </image>
+  <image id="47" name="curculionidae-of-guam-51.jpg" width="1405" height="1983">
+    <box label="species" xtl="261.45" ytl="729.88" xbr="1239.57" ybr="1709.67" occluded="0">
+      <attribute name="name">Choerorrhinodes flavisetosus</attribute>
+    </box>
+  </image>
+  <image id="48" name="curculionidae-of-guam-52.jpg" width="1387" height="1970">
+    <box label="species" xtl="142.99" ytl="213.55" xbr="1117.43" ybr="643.17" occluded="0">
+      <attribute name="name">Choerorrhinodes flavisetosus</attribute>
+    </box>
+  </image>
+  <image id="49" name="curculionidae-of-guam-53.jpg" width="1390" height="1973">
+    <box label="species" xtl="266.86" ytl="250.04" xbr="1250.40" ybr="1257.61" occluded="0">
+      <attribute name="name">Stenotrupis tenuis</attribute>
+    </box>
+  </image>
+  <image id="51" name="curculionidae-of-guam-55.jpg" width="1409" height="1987">
+    <box label="species" xtl="279.88" ytl="249.38" xbr="1265.15" ybr="1747.87" occluded="0">
+      <attribute name="name">Tytthoxydema exilis</attribute>
+    </box>
+  </image>
+  <image id="53" name="curculionidae-of-guam-57.jpg" width="1394" height="1975">
+    <box label="species" xtl="255.75" ytl="555.80" xbr="1278.38" ybr="1766.12" occluded="0">
+      <attribute name="name">Rhinanisodes planicollis</attribute>
+    </box>
+  </image>
+  <image id="54" name="curculionidae-of-guam-58.jpg" width="1398" height="1978">
+    <box label="species" xtl="177.56" ytl="954.25" xbr="1182.47" ybr="1689.26" occluded="0">
+      <attribute name="name">Himatinum bisetosum</attribute>
+    </box>
+    <box label="species" xtl="184.79" ytl="221.66" xbr="1180.05" ybr="390.35" occluded="0">
+      <attribute name="name">Rhinanisodes planicollis</attribute>
+    </box>
+  </image>
+  <image id="55" name="curculionidae-of-guam-59.jpg" width="1402" height="1981">
+    <box label="species" xtl="255.91" ytl="263.15" xbr="1238.20" ybr="868.94" occluded="0">
+      <attribute name="name">Himatinum bisetosum</attribute>
+    </box>
+  </image>
+  <image id="58" name="curculionidae-of-guam-61.jpg" width="1390" height="1973">
+    <box label="species" xtl="258.97" ytl="1216.39" xbr="1280.57" ybr="1728.39" occluded="0">
+      <attribute name="name">Dryotribodes obscurus </attribute>
+    </box>
+  </image>
+  <image id="59" name="curculionidae-of-guam-62.jpg" width="1405" height="1983">
+    <box label="species" xtl="150.78" ytl="219.88" xbr="1150.98" ybr="980.90" occluded="0">
+      <attribute name="name">Dryotribodes obscurus </attribute>
+    </box>
+    <box label="species" xtl="155.61" ytl="1075.12" xbr="1150.98" ybr="1674.27" occluded="0">
+      <attribute name="name">Dryotribodes angularis</attribute>
+    </box>
+  </image>
+  <image id="60" name="curculionidae-of-guam-63.jpg" width="1402" height="1981">
+    <box label="species" xtl="246.25" ytl="253.49" xbr="1214.07" ybr="1004.10" occluded="0">
+      <attribute name="name">Dryotribodes angularis</attribute>
+    </box>
+    <box label="species" xtl="253.49" ytl="1296.13" xbr="1218.90" ybr="1737.80" occluded="0">
+      <attribute name="name">Dryotribodes denticulatus</attribute>
+    </box>
+  </image>
+  <image id="61" name="curculionidae-of-guam-64.jpg" width="1390" height="1973">
+    <box label="species" xtl="160.42" ytl="202.00" xbr="1138.75" ybr="1387.06" occluded="0">
+      <attribute name="name">Dryotribodes denticulatus</attribute>
+    </box>
+  </image>
+  <image id="62" name="curculionidae-of-guam-65.jpg" width="1387" height="1970">
+    <box label="species" xtl="238.95" ytl="895.18" xbr="1220.99" ybr="1349.20" occluded="0">
+      <attribute name="name">Oxydema fusiforme</attribute>
+    </box>
+    <box label="species" xtl="238.95" ytl="1357.20" xbr="1220.99" ybr="1717.22" occluded="0">
+      <attribute name="name">Oxydema longulum</attribute>
+    </box>
+  </image>
+  <image id="63" name="curculionidae-of-guam-66.jpg" width="1398" height="1978">
+    <box label="species" xtl="172.74" ytl="534.94" xbr="1177.64" ybr="1277.17" occluded="0">
+      <attribute name="name">Aphanocorynes humeralis</attribute>
+    </box>
+    <box label="species" xtl="177.56" ytl="1537.44" xbr="1155.96" ybr="1694.08" occluded="0">
+      <attribute name="name">Eutornus nigriceps</attribute>
+    </box>
+  </image>
+  <image id="64" name="curculionidae-of-guam-67.jpg" width="1394" height="1975">
+    <box label="species" xtl="272.59" ytl="252.62" xbr="1249.51" ybr="1595.28" occluded="0">
+      <attribute name="name">Eutornus nigriceps</attribute>
+    </box>
+  </image>
+  <image id="65" name="curculionidae-of-guam-68.jpg" width="1390" height="1973">
+    <box label="species" xtl="179.65" ytl="966.40" xbr="1162.78" ybr="1685.12" occluded="0">
+      <attribute name="name">Macrancylus niger</attribute>
+    </box>
+  </image>
+  <image id="66" name="curculionidae-of-guam-69.jpg" width="1387" height="1970">
+    <box label="species" xtl="260.59" ytl="1612.81" xbr="1227.83" ybr="1720.82" occluded="0">
+      <attribute name="name">Phloeophagosoma sulcirostre</attribute>
+    </box>
+    <box label="species" xtl="255.79" ytl="259.15" xbr="1239.83" ybr="993.58" occluded="0">
+      <attribute name="name">Macrancylus niger</attribute>
+    </box>
+  </image>
+  <image id="67" name="curculionidae-of-guam-7.jpg" width="1405" height="1983">
+    <box label="species" xtl="281.24" ytl="1104.11" xbr="1291.11" ybr="1739.50" occluded="0">
+      <attribute name="name">Viticis guamae</attribute>
+    </box>
+  </image>
+  <image id="68" name="curculionidae-of-guam-70.jpg" width="1398" height="1978">
+    <box label="species" xtl="187.20" ytl="219.25" xbr="1184.87" ybr="1407.30" occluded="0">
+      <attribute name="name">Viticis guamae</attribute>
+    </box>
+  </image>
+  <image id="69" name="curculionidae-of-guam-71.jpg" width="1387" height="1970">
+    <box label="species" xtl="236.59" ytl="535.16" xbr="1249.44" ybr="1163.99" occluded="0">
+      <attribute name="name">Rhabdocnemis obscura</attribute>
+    </box>
+    <box label="species" xtl="255.79" ytl="1240.79" xbr="1225.43" ybr="1545.61" occluded="0">
+      <attribute name="name">Cosmo polites sordidus</attribute>
+    </box>
+    <box label="species" xtl="258.19" ytl="1593.61" xbr="1227.83" ybr="1747.22" occluded="0">
+      <attribute name="name">Polytus mellerborgi</attribute>
+    </box>
+  </image>
+  <image id="70" name="curculionidae-of-guam-72.jpg" width="1387" height="1970">
+    <box label="species" xtl="176.59" ytl="633.57" xbr="1184.63" ybr="1233.59" occluded="0">
+      <attribute name="name">Calandra oryzae</attribute>
+    </box>
+    <box label="species" xtl="169.39" ytl="1303.20" xbr="1189.43" ybr="1680.01" occluded="0">
+      <attribute name="name">Diocalandra frumenti</attribute>
+    </box>
+  </image>
+  <image id="71" name="curculionidae-of-guam-73.jpg" width="1387" height="1970">
+    <box label="species" xtl="260.60" ytl="256.75" xbr="1244.64" ybr="727.17" occluded="0">
+      <attribute name="name">Diocalandra frumenti</attribute>
+    </box>
+  </image>
+  <image id="86" name="curculionidae-of-guam-9.jpg" width="1398" height="1978">
+    <box label="species" xtl="290.82" ytl="443.36" xbr="1254.76" ybr="874.73" occluded="0">
+      <attribute name="name">Trigonops insularis</attribute>
+    </box>
+  </image>
+</annotations>

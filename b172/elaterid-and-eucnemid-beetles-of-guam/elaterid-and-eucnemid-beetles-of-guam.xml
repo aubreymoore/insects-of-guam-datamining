@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>30</id>
+      <name>elateridae-of-guam</name>
+      <size>3</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <flipped>False</flipped>
+      <created>2019-12-09 05:53:35.554035+03:00</created>
+      <updated>2019-12-10 08:48:53.741413+03:00</updated>
+      <source>3 images: elaterid-and-eucnemid-beetles-of-guam-0.jpg, elaterid-and-eucnemid-beetles-of-guam-1.jpg, ...</source>
+      <labels>
+        <label>
+          <name>species</name>
+          <attributes>
+            <attribute>@text=name:</attribute>
+          </attributes>
+        </label>
+      </labels>
+      <segments>
+        <segment>
+          <id>27</id>
+          <start>0</start>
+          <stop>2</stop>
+          <url>http://54.199.246.37/?id=27</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>aubreymoore</username>
+        <email>aubreymoore@guam.net</email>
+      </owner>
+    </task>
+    <dumped>2019-12-10 11:28:43.905470+03:00</dumped>
+  </meta>
+  <image id="0" name="elaterid-and-eucnemid-beetles-of-guam-0.jpg" width="1387" height="1970">
+    <box label="species" xtl="188.59" ytl="667.17" xbr="1151.03" ybr="782.38" occluded="0">
+      <attribute name="name">Agrypnus bifoveatus</attribute>
+    </box>
+    <box label="species" xtl="186.19" ytl="787.18" xbr="1151.03" ybr="998.39" occluded="0">
+      <attribute name="name">Lacon modestus</attribute>
+    </box>
+    <box label="species" xtl="183.79" ytl="1010.38" xbr="1153.43" ybr="1159.19" occluded="0">
+      <attribute name="name">Simodactylus cinnamomeus</attribute>
+    </box>
+    <box label="species" xtl="181.39" ytl="1159.20" xbr="1151.03" ybr="1473.61" occluded="0">
+      <attribute name="name">Simodactylus</attribute>
+    </box>
+    <box label="species" xtl="178.99" ytl="1476.01" xbr="1153.43" ybr="1668.01" occluded="0">
+      <attribute name="name">Melanoxanthus melanocephalus</attribute>
+    </box>
+  </image>
+  <image id="1" name="elaterid-and-eucnemid-beetles-of-guam-1.jpg" width="1402" height="1981">
+    <box label="species" xtl="253.49" ytl="258.32" xbr="1221.31" ybr="854.46" occluded="0">
+      <attribute name="name">Melanoxanthus palustris</attribute>
+    </box>
+    <box label="species" xtl="255.91" ytl="1274.41" xbr="1228.55" ybr="1754.69" occluded="0">
+      <attribute name="name">Melanoxanthus guamensis</attribute>
+    </box>
+  </image>
+  <image id="2" name="elaterid-and-eucnemid-beetles-of-guam-2.jpg" width="1387" height="1970">
+    <box label="species" xtl="178.99" ytl="201.55" xbr="1139.03" ybr="407.96" occluded="0">
+      <attribute name="name">Melanoxanthus palustris</attribute>
+    </box>
+    <box label="species" xtl="176.59" ytl="635.97" xbr="1155.83" ybr="1288.80" occluded="0">
+      <attribute name="name">Melanoxanthus unsingeri</attribute>
+    </box>
+    <box label="species" xtl="178.99" ytl="1468.80" xbr="1160.63" ybr="1694.41" occluded="0">
+      <attribute name="name">Fornax coxalis</attribute>
+    </box>
+  </image>
+</annotations>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>31</id>
+      <name>cerambycidae</name>
+      <size>4</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <flipped>False</flipped>
+      <created>2019-12-09 05:58:11.852647+03:00</created>
+      <updated>2019-12-10 08:41:55.317822+03:00</updated>
+      <source>4 images: new-longicorn-beetles-from-guam-cerambycidae-0.jpg, new-longicorn-beetles-from-guam-cerambycidae-1.jpg, ...</source>
+      <labels>
+        <label>
+          <name>species</name>
+          <attributes>
+            <attribute>@text=name:</attribute>
+          </attributes>
+        </label>
+      </labels>
+      <segments>
+        <segment>
+          <id>28</id>
+          <start>0</start>
+          <stop>3</stop>
+          <url>http://54.199.246.37/?id=28</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>aubreymoore</username>
+        <email>aubreymoore@guam.net</email>
+      </owner>
+    </task>
+    <dumped>2019-12-10 11:28:22.723776+03:00</dumped>
+  </meta>
+  <image id="0" name="new-longicorn-beetles-from-guam-cerambycidae-0.jpg" width="1387" height="1970">
+    <box label="species" xtl="164.15" ytl="527.96" xbr="1150.19" ybr="1241.99" occluded="0">
+      <attribute name="name">Iphrobrium guamensis</attribute>
+    </box>
+    <box label="species" xtl="160.15" ytl="1404.00" xbr="1140.19" ybr="1704.02" occluded="0">
+      <attribute name="name">Nonymoides swezeyi</attribute>
+    </box>
+  </image>
+  <image id="1" name="new-longicorn-beetles-from-guam-cerambycidae-1.jpg" width="1394" height="1975">
+    <box label="species" xtl="234.09" ytl="242.99" xbr="1225.45" ybr="818.08" occluded="0">
+      <attribute name="name">Nonymoides swezeyi</attribute>
+    </box>
+    <box label="species" xtl="262.96" ytl="1179.00" xbr="1247.10" ybr="1568.81" occluded="0">
+      <attribute name="name">Nonymoides minimus</attribute>
+    </box>
+  </image>
+  <image id="2" name="new-longicorn-beetles-from-guam-cerambycidae-2.jpg" width="1390" height="1973">
+    <box label="species" xtl="160.42" ytl="471.22" xbr="1153.20" ybr="596.22" occluded="0">
+      <attribute name="name">Ceresium</attribute>
+    </box>
+    <box label="species" xtl="158.01" ytl="608.24" xbr="1155.57" ybr="889.48" occluded="0">
+      <attribute name="name">Ceresium guttaticolle</attribute>
+    </box>
+    <box label="species" xtl="182.05" ytl="1036.11" xbr="1162.79" ybr="1706.76" occluded="0">
+      <attribute name="name">Sybra carolina</attribute>
+    </box>
+  </image>
+  <image id="3" name="new-longicorn-beetles-from-guam-cerambycidae-3.jpg" width="1402" height="1981">
+    <box label="species" xtl="251.08" ytl="253.49" xbr="1259.93" ybr="494.84" occluded="0">
+      <attribute name="name">Sybra</attribute>
+    </box>
+    <box label="species" xtl="255.91" ytl="572.08" xbr="1247.86" ybr="1023.40" occluded="0">
+      <attribute name="name">Ropica</attribute>
+    </box>
+  </image>
+</annotations>
